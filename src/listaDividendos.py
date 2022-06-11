@@ -46,34 +46,38 @@ def listaDividendos(N = 10, csvFileName = None, b3CsvFileName = "b3.csv", jsonFi
     b3 = b3[b3["TICKET"].isin(codes)]
     b3.reset_index(inplace = True)
     b3.drop(columns=['index'], inplace = True)
+    b3["DIV ULT"] = pd.NaT
     b3["DIV MEDIO"] = pd.NaT
     b3["DIV MEDIANA"] = pd.NaT
     b3["PRECO ATUAL"] = pd.NaT
-    b3["TAXA ATUAL_M"] = pd.NaT
-    b3["TAXA ATUAL_MD"] = pd.NaT
+    b3["TAXA ULT"] = pd.NaT
+    b3["TAXA M"] = pd.NaT
+    b3["TAXA MD"] = pd.NaT
 
+    DIV_ULT = b3.columns.get_loc('DIV ULT')
     DIV_MEDIO = b3.columns.get_loc('DIV MEDIO')
     DIV_MEDIANA = b3.columns.get_loc('DIV MEDIANA')
     PRECO_ATUAL = b3.columns.get_loc('PRECO ATUAL')
-    TAXA_ATUAL_M = b3.columns.get_loc('TAXA ATUAL_M')
-    TAXA_ATUAL_MD = b3.columns.get_loc('TAXA ATUAL_MD')
+    TAXA_ULT = b3.columns.get_loc('TAXA ULT')
+    TAXA_M = b3.columns.get_loc('TAXA M')
+    TAXA_MD = b3.columns.get_loc('TAXA MD')
     years = list(range(date.today().year - N, date.today().year))
     for i in range(len(b3)):
         div = list(map(getYear, yahooData[i]["dividends"]))
         dividends = []
         for year in years:
-            for d in div:
-                if d["year"] == year:
-                    dividends.append(d["dividend"])
-        if dividends:
-            b3.iloc[i, DIV_MEDIO] = round(st.mean(dividends), 2)
-            b3.iloc[i, DIV_MEDIANA] = round(st.median(dividends), 2)
-        else:
-            b3.iloc[i, DIV_MEDIO] = 0.0
-            b3.iloc[i, DIV_MEDIANA] = 0.0
+        	dividend = 0
+        	for d in div:
+        		if d["year"] == year:
+        			dividend += d["dividend"]
+        	dividends.append(dividend)
+        b3.iloc[i, DIV_ULT] = round(dividends[-1], 2)
+        b3.iloc[i, DIV_MEDIO] = round(st.mean(dividends), 2)
+        b3.iloc[i, DIV_MEDIANA] = round(st.median(dividends), 2)
         b3.iloc[i, PRECO_ATUAL] = yahooData[i]["price"]
-        b3.iloc[i, TAXA_ATUAL_M] = round(b3.iloc[i, DIV_MEDIO] * 100.0 / b3.iloc[i, PRECO_ATUAL], 2)
-        b3.iloc[i, TAXA_ATUAL_MD] = round(b3.iloc[i, DIV_MEDIANA] * 100.0 / b3.iloc[i, PRECO_ATUAL], 2)
+        b3.iloc[i, TAXA_ULT] = round(b3.iloc[i, DIV_MEDIO] * 100.0 / b3.iloc[i, PRECO_ATUAL], 2)
+        b3.iloc[i, TAXA_M] = round(b3.iloc[i, DIV_MEDIO] * 100.0 / b3.iloc[i, PRECO_ATUAL], 2)
+        b3.iloc[i, TAXA_MD] = round(b3.iloc[i, DIV_MEDIANA] * 100.0 / b3.iloc[i, PRECO_ATUAL], 2)
 
     if (csvFileName != None):
         b3.to_csv(csvFileName, sep=";", index=False)

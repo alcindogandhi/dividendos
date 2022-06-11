@@ -1,416 +1,416 @@
-TICKET;EMPRESA;SETOR;SEGMENTO;DIV MEDIO;DIV MEDIANA;PRECO ATUAL;TAXA ATUAL_M;TAXA ATUAL_MD
-AALR3;CENTRO DE IMAGEM DIAGNOSTICOS S.A.;Saúde;Serv.Méd.Hospit..Análises e Diagnósticos;0.06;0.06;20;0.3;0.3
-ABCB4;BCO ABC BRASIL S.A.;Financeiro;Bancos;0.36;0.34;15.91;2.26;2.14
-ABEV3;AMBEV S.A.;Consumo não Cíclico;Cervejas e Refrigerantes;0.2;0.15;13.59;1.47;1.1
-ADHM3;ADVANCED DIGITAL HEALTH MEDICINA PREVENTIVA S.A.;Saúde;Serv.Méd.Hospit..Análises e Diagnósticos;0.0;0.0;1.56;0.0;0.0
-AERI3;AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S/A;Bens Industriais;Máq. e Equip. Industriais;0.0;0.0;3.09;0.0;0.0
-AESB3;AES BRASIL ENERGIA S.A.;Utilidade Pública;Energia Elétrica;0.11;0.11;10.43;1.05;1.05
-AFLT3;AFLUENTE TRANSMISSÃO DE ENERGIA ELÉTRICA S/A;Utilidade Pública;Energia Elétrica;0.17;0.13;9.09;1.87;1.43
-AGRO3;BRASILAGRO - CIA BRAS DE PROP AGRICOLAS;Consumo não Cíclico;Agricultura;0.74;0.56;28.98;2.55;1.93
-ALLD3;ALLIED TECNOLOGIA S.A.;Consumo Cíclico;Eletrodomésticos;0.38;0.38;11.34;3.35;3.35
-ALPA3;ALPARGATAS S.A.;Consumo Cíclico;Calçados;0.07;0.06;17.18;0.41;0.35
-ALPA4;ALPARGATAS S.A.;Consumo Cíclico;Calçados;0.07;0.06;19.23;0.36;0.31
-ALSO3;ALIANSCE SONAE SHOPPING CENTERS S.A.;Financeiro;Exploração de Imóveis;0.23;0.23;17.91;1.28;1.28
-ALUP11;ALUPAR INVESTIMENTO S/A;Utilidade Pública;Energia Elétrica;0.68;0.71;25.96;2.62;2.73
-ALUP3;ALUPAR INVESTIMENTO S/A;Utilidade Pública;Energia Elétrica;0.15;0.15;8.7;1.72;1.72
-ALUP4;ALUPAR INVESTIMENTO S/A;Utilidade Pública;Energia Elétrica;0.15;0.15;8.8;1.7;1.7
-AMAR3;MARISA LOJAS S.A.;Consumo Cíclico;Tecidos. Vestuário e Calçados;0.11;0.11;2.05;5.37;5.37
-AMBP3;AMBIPAR PARTICIPACOES E EMPREENDIMENTOS S/A;Utilidade Pública;água e Saneamento;0.09;0.09;25.55;0.35;0.35
-ANIM3;ANIMA HOLDING S.A.;Consumo Cíclico;Serviços Educacionais;0.11;0.06;4.99;2.2;1.2
-APER3;ALPER CONSULTORIA E CORRETORA DE SEGUROS S.A.;Financeiro;Corretoras de Seguros;0.32;0.2;32.33;0.99;0.62
-ARZZ3;AREZZO INDÚSTRIA E COMÉRCIO S.A.;Consumo Cíclico;Tecidos. Vestuário e Calçados;0.22;0.2;73.44;0.3;0.27
-ASAI3;SENDAS DISTRIBUIDORA S.A.;Consumo não Cíclico;Alimentos;0.12;0.05;15.04;0.8;0.33
-ATMP3;ATMA PARTICIPAÇÕES S.A.;Bens Industriais;Serviços Diversos;0.39;0.07;1.55;25.16;4.52
-ATOM3;ATOM EMPREENDIMENTOS E PARTICIPAÇÕES S.A.;Outros;Outros;0.1;0.0;2.55;3.92;0.0
-AZEV3;AZEVEDO E TRAVASSOS S.A.;Bens Industriais;Construção Pesada;0.06;0.04;3.24;1.85;1.23
-AZEV4;AZEVEDO E TRAVASSOS S.A.;Bens Industriais;Construção Pesada;0.09;0.04;2.44;3.69;1.64
-B3SA3;B3 S.A. - BRASIL. BOLSA. BALCÃO;Financeiro;Serviços Financeiros Diversos;0.15;0.12;11.66;1.29;1.03
-BAHI3;BAHEMA EDUCAÇÃO S.A.;Consumo Cíclico;Serviços Educacionais;0.51;0.53;12.8;3.98;4.14
-BALM3;BAUMER S.A.;Saúde;Equipamentos;0.27;0.15;14.42;1.87;1.04
-BALM4;BAUMER S.A.;Saúde;Equipamentos;0.32;0.15;10.7;2.99;1.4
-BAUH4;EXCELSIOR ALIMENTOS S.A.;Consumo não Cíclico;Carnes e Derivados;0.47;0.45;77.86;0.6;0.58
-BAZA3;BCO AMAZONIA S.A.;Financeiro;Bancos;1.17;0.66;41;2.85;1.61
-BBAS3;BCO BRASIL S.A.;Financeiro;Bancos;0.22;0.18;34.55;0.64;0.52
-BBDC3;BCO BRADESCO S.A.;Financeiro;Bancos;0.05;0.02;15.91;0.31;0.13
-BBDC4;BCO BRADESCO S.A.;Financeiro;Bancos;0.06;0.02;19.11;0.31;0.1
-BBRK3;BRASIL BROKERS PARTICIPACOES S.A.;Financeiro;Intermediação Imobiliária;0.28;0.32;0.8;35.0;40.0
-BBSE3;BB SEGURIDADE PARTICIPAÇÕES S.A.;Financeiro;Seguradoras;0.86;0.84;24.6;3.5;3.41
-BDLL3;BARDELLA S.A. INDUSTRIAS MECANICAS;Bens Industriais;Máq. e Equip. Industriais;5.88;5.88;11;53.45;53.45
-BDLL4;BARDELLA S.A. INDUSTRIAS MECANICAS;Bens Industriais;Máq. e Equip. Industriais;5.86;5.84;8.5;68.94;68.71
-BEEF3;MINERVA S.A.;Consumo não Cíclico;Carnes e Derivados;0.29;0.26;13.93;2.08;1.87
-BEES3;BANESTES S.A. - BCO EST ESPIRITO SANTO;Financeiro;Bancos;0.02;0.01;5.16;0.39;0.19
-BEES4;BANESTES S.A. - BCO EST ESPIRITO SANTO;Financeiro;Bancos;0.01;0.01;5.26;0.19;0.19
-BGIP3;BCO ESTADO DE SERGIPE S.A. - BANESE;Financeiro;Bancos;0.53;0.53;29.46;1.8;1.8
-BGIP4;BCO ESTADO DE SERGIPE S.A. - BANESE;Financeiro;Bancos;0.58;0.59;19.15;3.03;3.08
-BIDI3;BANCO INTER S.A.;Financeiro;Bancos;0.01;0.02;3.43;0.29;0.58
-BIDI4;BANCO INTER S.A.;Financeiro;Bancos;0.02;0.02;3.58;0.56;0.56
-BIOM3;BIOMM S.A.;Saúde;Medicamentos e Outros Produtos;0.0;0.0;10.01;0.0;0.0
-BKBR3;BK BRASIL OPERAÇÃO E ASSESSORIA A RESTAURANTES SA;Consumo Cíclico;Restaurante e Similares;0.06;0.05;6.51;0.92;0.77
-BLAU3;BLAU FARMACÊUTICA S.A.;Saúde;Medicamentos e Outros Produtos;0.08;0.11;25.94;0.31;0.42
-BMEB3;BCO MERCANTIL DO BRASIL S.A.;Financeiro;Bancos;0.37;0.32;12.36;2.99;2.59
-BMEB4;BCO MERCANTIL DO BRASIL S.A.;Financeiro;Bancos;0.48;0.4;10.23;4.69;3.91
-BMGB4;BANCO BMG S.A.;Financeiro;Bancos;0.25;0.25;2.63;9.51;9.51
-BMIN3;BCO MERCANTIL DE INVESTIMENTOS S.A.;Financeiro;Bancos;0.21;0.0;20;1.05;0.0
-BMIN4;BCO MERCANTIL DE INVESTIMENTOS S.A.;Financeiro;Bancos;0.63;0.55;14.34;4.39;3.84
-BMKS3;BICICLETAS MONARK S.A.;Consumo Cíclico;Bicicletas;23.8;23.05;249.87;9.52;9.22
-BNBR3;BCO NORDESTE DO BRASIL S.A.;Financeiro;Bancos;1.25;0.95;70;1.79;1.36
-BOAS3;BOA VISTA SERVIÇOS S.A.;Financeiro;Serviços Financeiros Diversos;0.04;0.04;5.57;0.72;0.72
-BPAC11;BCO BTG PACTUAL S.A.;Financeiro;Bancos;0.5;0.62;22.43;2.23;2.76
-BPAC3;BCO BTG PACTUAL S.A.;Financeiro;Bancos;0.18;0.21;12.8;1.41;1.64
-BPAC5;BCO BTG PACTUAL S.A.;Financeiro;Bancos;0.18;0.22;4.97;3.62;4.43
-BPAN4;BCO PAN S.A.;Financeiro;Bancos;0.08;0.06;6.83;1.17;0.88
-BRAP3;BRADESPAR S.A.;Materiais Básicos;Minerais Metálicos;0.99;0.64;25.4;3.9;2.52
-BRAP4;BRADESPAR S.A.;Materiais Básicos;Minerais Metálicos;1.07;0.65;28.88;3.7;2.25
-BRFS3;BRF S.A.;Consumo não Cíclico;Carnes e Derivados;0.4;0.42;15;2.67;2.8
-BRGE11;CONSORCIO ALFA DE ADMINISTRACAO S.A.;Financeiro;Seguradoras;0.15;0.12;7.71;1.95;1.56
-BRGE12;CONSORCIO ALFA DE ADMINISTRACAO S.A.;Financeiro;Seguradoras;0.0;0.0;6.95;0.0;0.0
-BRGE3;CONSORCIO ALFA DE ADMINISTRACAO S.A.;Financeiro;Seguradoras;0.01;0.0;6.6;0.15;0.0
-BRGE5;CONSORCIO ALFA DE ADMINISTRACAO S.A.;Financeiro;Seguradoras;0.12;0.1;9.81;1.22;1.02
-BRGE6;CONSORCIO ALFA DE ADMINISTRACAO S.A.;Financeiro;Seguradoras;0.29;0.24;8.5;3.41;2.82
-BRGE8;CONSORCIO ALFA DE ADMINISTRACAO S.A.;Financeiro;Seguradoras;0.12;0.1;8.9;1.35;1.12
-BRIV3;BCO ALFA DE INVESTIMENTO S.A.;Financeiro;Bancos;0.04;0.04;6.35;0.63;0.63
-BRIV4;BCO ALFA DE INVESTIMENTO S.A.;Financeiro;Bancos;0.24;0.24;6.24;3.85;3.85
-BRKM3;BRASKEM S.A.;Materiais Básicos;Petroquímicos;1.92;1.26;43.5;4.41;2.9
-BRKM5;BRASKEM S.A.;Materiais Básicos;Petroquímicos;1.8;1.26;44.09;4.08;2.86
-BRKM6;BRASKEM S.A.;Materiais Básicos;Petroquímicos;0.68;0.61;26.04;2.61;2.34
-BRML3;BR MALLS PARTICIPACOES S.A.;Financeiro;Exploração de Imóveis;0.21;0.08;8.05;2.61;0.99
-BRPR3;BR PROPERTIES S.A.;Financeiro;Exploração de Imóveis;0.78;0.19;8.6;9.07;2.21
-BRSR3;BCO ESTADO DO RIO GRANDE DO SUL S.A.;Financeiro;Bancos;0.17;0.19;11.97;1.42;1.59
-BRSR5;BCO ESTADO DO RIO GRANDE DO SUL S.A.;Financeiro;Bancos;0.17;0.19;17.1;0.99;1.11
-BRSR6;BCO ESTADO DO RIO GRANDE DO SUL S.A.;Financeiro;Bancos;0.16;0.17;9.95;1.61;1.71
-BSLI3;BRB BCO DE BRASILIA S.A.;Financeiro;Bancos;0.1;0.07;22;0.45;0.32
-BSLI4;BRB BCO DE BRASILIA S.A.;Financeiro;Bancos;0.1;0.07;17.35;0.58;0.4
-CALI4;CONSTRUTORA ADOLPHO LINDENBERG S.A.;Consumo Cíclico;Incorporações;4.84;2.94;50;9.68;5.88
-CAML3;CAMIL ALIMENTOS S.A.;Consumo não Cíclico;Alimentos Diversos;0.08;0.05;10.23;0.78;0.49
-CARD3;CSU CARDSYSTEM S.A.;Financeiro;Serviços Financeiros Diversos;0.12;0.1;13.07;0.92;0.77
-CASN4;CIA CATARINENSE DE AGUAS E SANEAM.-CASAN;Utilidade Pública;água e Saneamento;0.02;0.02;10;0.2;0.2
-CBEE3;AMPLA ENERGIA E SERVICOS S.A.;Utilidade Pública;Energia Elétrica;0.11;0.05;19.21;0.57;0.26
-CCRO3;CCR S.A.;Bens Industriais;Exploração de Rodovias;0.28;0.28;13.05;2.15;2.15
-CEAB3;CEA MODAS S.A.;Consumo Cíclico;Tecidos. Vestuário e Calçados;0.25;0.25;2.73;9.16;9.16
-CEBR3;CIA ENERGETICA DE BRASILIA;Utilidade Pública;Energia Elétrica;11.25;1.67;14.93;75.35;11.19
-CEBR5;CIA ENERGETICA DE BRASILIA;Utilidade Pública;Energia Elétrica;13.06;3.93;12.39;105.41;31.72
-CEBR6;CIA ENERGETICA DE BRASILIA;Utilidade Pública;Energia Elétrica;12.48;1.83;13;96.0;14.08
-CEDO3;CIA FIACAO TECIDOS CEDRO CACHOEIRA;Consumo Cíclico;Fios e Tecidos;0.29;0.3;7;4.14;4.29
-CEDO4;CIA FIACAO TECIDOS CEDRO CACHOEIRA;Consumo Cíclico;Fios e Tecidos;0.26;0.3;4.49;5.79;6.68
-CEEB3;CIA ELETRICIDADE EST. DA BAHIA - COELBA;Utilidade Pública;Energia Elétrica;0.84;0.59;37.5;2.24;1.57
-CEEB5;CIA ELETRICIDADE EST. DA BAHIA - COELBA;Utilidade Pública;Energia Elétrica;0.84;0.6;34.49;2.44;1.74
-CEED3;CIA ESTADUAL DE DISTRIB ENER ELET-CEEE-D;Utilidade Pública;Energia Elétrica;0.0;0.0;42;0.0;0.0
-CEED4;CIA ESTADUAL DE DISTRIB ENER ELET-CEEE-D;Utilidade Pública;Energia Elétrica;0.0;0.0;65.5;0.0;0.0
-CEGR3;CIA DISTRIB DE GAS DO RIO DE JANEIRO-CEG;Utilidade Pública;Gás;0.77;0.41;89;0.87;0.46
-CEPE3;CIA ENERGETICA DE PERNAMBUCO - CELPE;Utilidade Pública;Energia Elétrica;0.65;0.63;128;0.51;0.49
-CEPE5;CIA ENERGETICA DE PERNAMBUCO - CELPE;Utilidade Pública;Energia Elétrica;0.7;0.65;40.01;1.75;1.62
-CEPE6;CIA ENERGETICA DE PERNAMBUCO - CELPE;Utilidade Pública;Energia Elétrica;0.69;0.69;40.16;1.72;1.72
-CGAS3;CIA GAS DE SAO PAULO - COMGAS;Utilidade Pública;Gás;3.49;1.27;120;2.91;1.06
-CGAS5;CIA GAS DE SAO PAULO - COMGAS;Utilidade Pública;Gás;3.87;1.6;125.54;3.08;1.27
-CGRA3;GRAZZIOTIN S.A.;Consumo Cíclico;Tecidos. Vestuário e Calçados;0.77;0.72;29.4;2.62;2.45
-CGRA4;GRAZZIOTIN S.A.;Consumo Cíclico;Tecidos. Vestuário e Calçados;0.75;0.67;29.2;2.57;2.29
-CIEL3;CIELO S.A.;Financeiro;Serviços Financeiros Diversos;0.24;0.08;3.78;6.35;2.12
-CLSC3;CENTRAIS ELET DE SANTA CATARINA S.A.;Utilidade Pública;Energia Elétrica;1.21;0.84;57;2.12;1.47
-CLSC4;CENTRAIS ELET DE SANTA CATARINA S.A.;Utilidade Pública;Energia Elétrica;1.26;1.19;58.91;2.14;2.02
-CMIG3;CIA ENERGETICA DE MINAS GERAIS - CEMIG;Utilidade Pública;Energia Elétrica;0.36;0.27;14.9;2.42;1.81
-CMIG4;CIA ENERGETICA DE MINAS GERAIS - CEMIG;Utilidade Pública;Energia Elétrica;0.37;0.27;10.92;3.39;2.47
-CMIN3;CSN MINERAÇÃO S.A.;Materiais Básicos;Minerais Metálicos;0.16;0.09;5.22;3.07;1.72
-COCE3;CIA ENERGETICA DO CEARA - COELCE;Utilidade Pública;Energia Elétrica;1.77;1.87;58.92;3.0;3.17
-COCE5;CIA ENERGETICA DO CEARA - COELCE;Utilidade Pública;Energia Elétrica;1.77;1.87;48.2;3.67;3.88
-COGN3;COGNA EDUCAÇÃO S.A.;Consumo Cíclico;Serviços Educacionais;0.13;0.08;2.51;5.18;3.19
-CORR4;CORREA RIBEIRO S.A. COMERCIO E INDUSTRIA;Financeiro;Exploração de Imóveis;6.15;6.15;82;7.5;7.5
-CPFE3;CPFL ENERGIA S.A.;Utilidade Pública;Energia Elétrica;0.74;0.54;31.93;2.32;1.69
-CPLE3;CIA PARANAENSE DE ENERGIA - COPEL;Utilidade Pública;Energia Elétrica;0.41;0.25;6.39;6.42;3.91
-CPLE5;CIA PARANAENSE DE ENERGIA - COPEL;Utilidade Pública;Energia Elétrica;0.7;0.39;22;3.18;1.77
-CPLE6;CIA PARANAENSE DE ENERGIA - COPEL;Utilidade Pública;Energia Elétrica;0.41;0.28;6.95;5.9;4.03
-CRDE3;CR2 EMPREENDIMENTOS IMOBILIARIOS S.A.;Consumo Cíclico;Incorporações;1.39;0.04;21.49;6.47;0.19
-CRFB3;ATACADÃO S.A.;Consumo não Cíclico;Alimentos;0.19;0.19;17.83;1.07;1.07
-CRIV3;FINANCEIRA ALFA S.A.- CRED FINANC E INVS;Financeiro;Soc. Crédito e Financiamento;0.06;0.03;4.49;1.34;0.67
-CRIV4;FINANCEIRA ALFA S.A.- CRED FINANC E INVS;Financeiro;Soc. Crédito e Financiamento;0.18;0.18;4.9;3.67;3.67
-CRPG3;TRONOX PIGMENTOS DO BRASIL S.A.;Materiais Básicos;Químicos Diversos;0.49;0.35;41.3;1.19;0.85
-CRPG5;TRONOX PIGMENTOS DO BRASIL S.A.;Materiais Básicos;Químicos Diversos;0.51;0.37;37.67;1.35;0.98
-CRPG6;TRONOX PIGMENTOS DO BRASIL S.A.;Materiais Básicos;Químicos Diversos;0.43;0.25;38.8;1.11;0.64
-CSAB3;CIA SEGUROS ALIANCA DA BAHIA;Financeiro;Seguradoras;2.75;2.21;65;4.23;3.4
-CSAB4;CIA SEGUROS ALIANCA DA BAHIA;Financeiro;Seguradoras;3.07;2.02;50;6.14;4.04
-CSAN3;COSAN S.A.;Petróleo. Gás e Biocombustíveis;Exploração. Refino e Distribuição;0.57;0.62;19.74;2.89;3.14
-CSED3;CRUZEIRO DO SUL EDUCACIONAL S.A.;Consumo Cíclico;Serviços Educacionais;0.19;0.19;3.21;5.92;5.92
-CSMG3;CIA SANEAMENTO DE MINAS GERAIS-COPASA MG;Utilidade Pública;água e Saneamento;0.24;0.19;12.48;1.92;1.52
-CSNA3;CIA SIDERURGICA NACIONAL;Materiais Básicos;Siderurgia;0.45;0.34;19.63;2.29;1.73
-CSRN3;CIA ENERGETICA DO RIO GDE NORTE - COSERN;Utilidade Pública;Energia Elétrica;0.29;0.18;22.35;1.3;0.81
-CSRN5;CIA ENERGETICA DO RIO GDE NORTE - COSERN;Utilidade Pública;Energia Elétrica;0.31;0.18;22.4;1.38;0.8
-CSRN6;CIA ENERGETICA DO RIO GDE NORTE - COSERN;Utilidade Pública;Energia Elétrica;0.31;0.19;22;1.41;0.86
-CTKA3;KARSTEN S.A.;Consumo Cíclico;Fios e Tecidos;0.0;0.0;27.5;0.0;0.0
-CTKA4;KARSTEN S.A.;Consumo Cíclico;Fios e Tecidos;0.0;0.0;11.55;0.0;0.0
-CTNM3;CIA TECIDOS NORTE DE MINAS COTEMINAS;Consumo Cíclico;Fios e Tecidos;0.0;0.0;8.99;0.0;0.0
-CTNM4;CIA TECIDOS NORTE DE MINAS COTEMINAS;Consumo Cíclico;Fios e Tecidos;0.0;0.0;2.53;0.0;0.0
-CTSA3;CIA TECIDOS SANTANENSE;Consumo Cíclico;Fios e Tecidos;0.25;0.08;1.7;14.71;4.71
-CTSA4;CIA TECIDOS SANTANENSE;Consumo Cíclico;Fios e Tecidos;0.13;0.06;0.85;15.29;7.06
-CURY3;CURY CONSTRUTORA E INCORPORADORA S.A.;Consumo Cíclico;Incorporações;0.28;0.28;6.12;4.58;4.58
-CVCB3;CVC BRASIL OPERADORA E AGÊNCIA DE VIAGENS S.A.;Consumo Cíclico;Viagens e Turismo;0.21;0.15;9.3;2.26;1.61
-CXSE3;CAIXA SEGURIDADE PARTICIPAÇÕES S.A.;Financeiro;Seguradoras;0.24;0.24;7.13;3.37;3.37
-CYRE3;CYRELA BRAZIL REALTY S.A.EMPREEND E PART;Consumo Cíclico;Incorporações;0.54;0.4;12.19;4.43;3.28
-DASA3;DIAGNOSTICOS DA AMERICA S.A.;Saúde;Serv.Méd.Hospit..Análises e Diagnósticos;0.18;0.1;17.77;1.01;0.56
-DIRR3;DIRECIONAL ENGENHARIA S.A.;Consumo Cíclico;Incorporações;0.41;0.37;9.86;4.16;3.75
-DMMO3;DOMMO ENERGIA S.A.;Petróleo. Gás e Biocombustíveis;Exploração. Refino e Distribuição;0.0;0.0;1.52;0.0;0.0
-DOHL3;DOHLER S.A.;Consumo Cíclico;Fios e Tecidos;0.09;0.08;19;0.47;0.42
-DOHL4;DOHLER S.A.;Consumo Cíclico;Fios e Tecidos;0.13;0.11;5.95;2.18;1.85
-DTCY3;DTCOM - DIRECT TO COMPANY S.A.;Bens Industriais;Serviços Diversos;0.0;0.0;7.85;0.0;0.0
-EALT3;ELECTRO ACO ALTONA S.A.;Bens Industriais;Máq. e Equip. Industriais;0.22;0.13;9.1;2.42;1.43
-EALT4;ELECTRO ACO ALTONA S.A.;Bens Industriais;Máq. e Equip. Industriais;0.25;0.18;7.13;3.51;2.52
-ECOR3;ECORODOVIAS INFRAESTRUTURA E LOGÍSTICA S.A.;Bens Industriais;Exploração de Rodovias;0.35;0.34;6.74;5.19;5.04
-ECPR3;EMPRESA NAC COM REDITO PART S.A.ENCORPAR;Consumo Cíclico;Fios e Tecidos;6.33;7.0;90.25;7.01;7.76
-ECPR4;EMPRESA NAC COM REDITO PART S.A.ENCORPAR;Consumo Cíclico;Fios e Tecidos;11.39;11.39;90.74;12.55;12.55
-EEEL3;CIA ESTADUAL GER.TRANS.ENER.ELET-CEEE-GT;Utilidade Pública;Energia Elétrica;11.76;13.32;421.01;2.79;3.16
-EEEL4;CIA ESTADUAL GER.TRANS.ENER.ELET-CEEE-GT;Utilidade Pública;Energia Elétrica;12.57;13.24;410;3.07;3.23
-EGIE3;ENGIE BRASIL ENERGIA S.A.;Utilidade Pública;Energia Elétrica;0.67;0.63;40.92;1.64;1.54
-EKTR3;ELEKTRO REDES S.A.;Utilidade Pública;Energia Elétrica;0.67;0.53;30;2.23;1.77
-EKTR4;ELEKTRO REDES S.A.;Utilidade Pública;Energia Elétrica;0.78;0.66;27.08;2.88;2.44
-ELET3;CENTRAIS ELET BRAS S.A. - ELETROBRAS;Utilidade Pública;Energia Elétrica;1.06;1.08;41;2.59;2.63
-ELET5;CENTRAIS ELET BRAS S.A. - ELETROBRAS;Utilidade Pública;Energia Elétrica;1.81;2.18;64.5;2.81;3.38
-ELET6;CENTRAIS ELET BRAS S.A. - ELETROBRAS;Utilidade Pública;Energia Elétrica;1.45;1.63;39.7;3.65;4.11
-EMAE3;EMAE - EMPRESA METROP.AGUAS ENERGIA S.A.;Utilidade Pública;Energia Elétrica;1.16;0.46;26.01;4.46;1.77
-EMAE4;EMAE - EMPRESA METROP.AGUAS ENERGIA S.A.;Utilidade Pública;Energia Elétrica;0.95;0.47;35;2.71;1.34
-EMBR3;EMBRAER S.A.;Bens Industriais;Material Aeronáutico e de Defesa;0.05;0.04;12.05;0.41;0.33
-ENAT3;ENAUTA PARTICIPAÇÕES S.A.;Petróleo. Gás e Biocombustíveis;Exploração. Refino e Distribuição;0.71;0.17;20.25;3.51;0.84
-ENBR3;EDP - ENERGIAS DO BRASIL S.A.;Utilidade Pública;Energia Elétrica;0.37;0.4;20.47;1.81;1.95
-ENEV3;ENEVA S.A;Utilidade Pública;Energia Elétrica;0.0;0.0;14.37;0.0;0.0
-ENGI3;ENERGISA S.A.;Utilidade Pública;Energia Elétrica;0.07;0.06;13.36;0.52;0.45
-ENGI4;ENERGISA S.A.;Utilidade Pública;Energia Elétrica;0.07;0.06;7.35;0.95;0.82
-ENMT3;ENERGISA MATO GROSSO-DISTRIBUIDORA DE ENERGIA S/A;Utilidade Pública;Energia Elétrica;0.74;0.54;83.58;0.89;0.65
-ENMT4;ENERGISA MATO GROSSO-DISTRIBUIDORA DE ENERGIA S/A;Utilidade Pública;Energia Elétrica;0.57;0.46;83.59;0.68;0.55
-EQMA3B;EQUATORIAL MARANHÃO DISTRIBUIDORA DE ENERGIA S.A.;Utilidade Pública;Energia Elétrica;1.37;1.28;38.1;3.6;3.36
-EQPA3;EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A.;Utilidade Pública;Energia Elétrica;0.08;0.07;5;1.6;1.4
-EQPA5;EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A.;Utilidade Pública;Energia Elétrica;0.09;0.06;6.7;1.34;0.9
-EQPA6;EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A.;Utilidade Pública;Energia Elétrica;0.09;0.07;10.69;0.84;0.65
-EQPA7;EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A.;Utilidade Pública;Energia Elétrica;0.08;0.07;6.62;1.21;1.06
-EQTL3;EQUATORIAL ENERGIA S.A.;Utilidade Pública;Energia Elétrica;0.2;0.15;24.16;0.83;0.62
-ESPA3;MPM CORPÓREOS S.A.;Consumo Cíclico;Produtos Diversos;0.07;0.07;2.56;2.73;2.73
-ESTR3;MANUFATURA DE BRINQUEDOS ESTRELA S.A.;Consumo Cíclico;Brinquedos e Jogos;0.0;0.0;40;0.0;0.0
-ESTR4;MANUFATURA DE BRINQUEDOS ESTRELA S.A.;Consumo Cíclico;Brinquedos e Jogos;0.0;0.0;53;0.0;0.0
-ETER3;ETERNIT S.A.;Bens Industriais;Produtos para Construção;0.13;0.14;11.02;1.18;1.27
-EUCA3;EUCATEX S.A. INDUSTRIA E COMERCIO;Materiais Básicos;Madeira;0.1;0.06;15;0.67;0.4
-EUCA4;EUCATEX S.A. INDUSTRIA E COMERCIO;Materiais Básicos;Madeira;0.12;0.1;8.71;1.38;1.15
-EVEN3;EVEN CONSTRUTORA E INCORPORADORA S.A.;Consumo Cíclico;Incorporações;0.23;0.23;4.68;4.91;4.91
-EZTC3;EZ TEC EMPREEND. E PARTICIPACOES S.A.;Consumo Cíclico;Incorporações;0.72;0.54;15.08;4.77;3.58
-FESA3;CIA FERRO LIGAS DA BAHIA - FERBASA;Materiais Básicos;Siderurgia;0.23;0.22;61.99;0.37;0.35
-FESA4;CIA FERRO LIGAS DA BAHIA - FERBASA;Materiais Básicos;Siderurgia;0.26;0.25;55.4;0.47;0.45
-FHER3;FERTILIZANTES HERINGER S.A.;Materiais Básicos;Fertilizantes e Defensivos;0.0;0.0;15.85;0.0;0.0
-FLRY3;FLEURY S.A.;Saúde;Serv.Méd.Hospit..Análises e Diagnósticos;0.27;0.13;15.16;1.78;0.86
-FRAS3;FRAS-LE S.A.;Bens Industriais;Material Rodoviário;0.07;0.05;10.45;0.67;0.48
-FRIO3;METALFRIO SOLUTIONS S.A.;Bens Industriais;Máq. e Equip. Industriais;0.0;0.0;41.5;0.0;0.0
-FRTA3;POMIFRUTAS S/A;Consumo não Cíclico;Agricultura;0.0;0.0;3.1;0.0;0.0
-GEPA3;RIO PARANAPANEMA ENERGIA S.A.;Utilidade Pública;Energia Elétrica;1.27;1.27;27.37;4.64;4.64
-GEPA4;RIO PARANAPANEMA ENERGIA S.A.;Utilidade Pública;Energia Elétrica;1.25;1.21;25.27;4.95;4.79
-GFSA3;GAFISA S.A.;Consumo Cíclico;Incorporações;0.22;0.2;1.34;16.42;14.93
-GGBR4;GERDAU S.A.;Materiais Básicos;Siderurgia;0.15;0.07;27.46;0.55;0.25
-GGPS3;GPS PARTICIPACOES E EMPREENDIMENTOS S.A.;Bens Industriais;Serviços Diversos;0.19;0.19;12.7;1.5;1.5
-GOAU3;METALURGICA GERDAU S.A.;Materiais Básicos;Siderurgia;0.13;0.07;10.73;1.21;0.65
-GOAU4;METALURGICA GERDAU S.A.;Materiais Básicos;Siderurgia;0.13;0.07;11.79;1.1;0.59
-GOLL4;GOL LINHAS AEREAS INTELIGENTES S.A.;Bens Industriais;Transporte Aéreo;0.0;0.0;11.62;0.0;0.0
-GPAR3;CIA CELG DE PARTICIPACOES - CELGPAR;Utilidade Pública;Energia Elétrica;0.48;0.48;29.5;1.63;1.63
-GPIV33;GP INVESTMENTS. LTD.;Financeiro;Gestão de Recursos e Investimentos;0.0;0.0;4.67;0.0;0.0
-GRND3;GRENDENE S.A.;Consumo Cíclico;Calçados;0.13;0.1;8.11;1.6;1.23
-GSHP3;GENERAL SHOPPING E OUTLETS DO BRASIL S.A.;Financeiro;Exploração de Imóveis;37.86;3.07;25.2;150.24;12.18
-GUAR3;GUARARAPES CONFECCOES S.A.;Consumo Cíclico;Tecidos. Vestuário e Calçados;0.32;0.09;7.62;4.2;1.18
-HAGA3;HAGA S.A. INDUSTRIA E COMERCIO;Bens Industriais;Produtos para Construção;0.0;0.0;3.05;0.0;0.0
-HAGA4;HAGA S.A. INDUSTRIA E COMERCIO;Bens Industriais;Produtos para Construção;0.0;0.0;1.38;0.0;0.0
-HBOR3;HELBOR EMPREENDIMENTOS S.A.;Consumo Cíclico;Incorporações;0.32;0.3;2.75;11.64;10.91
-HBTS5;CIA HABITASUL DE PARTICIPACOES;Financeiro;Exploração de Imóveis;0.57;0.54;44.89;1.27;1.2
-HETA3;HERCULES S.A. FABRICA DE TALHERES;Consumo Cíclico;Utensílios Domésticos;0.0;0.0;96;0.0;0.0
-HETA4;HERCULES S.A. FABRICA DE TALHERES;Consumo Cíclico;Utensílios Domésticos;0.0;0.0;5.96;0.0;0.0
-HOOT4;HOTEIS OTHON S.A.;Consumo Cíclico;Hotelaria;0.0;0.0;2.22;0.0;0.0
-HYPE3;HYPERA S.A.;Saúde;Medicamentos e Outros Produtos;0.29;0.29;38.9;0.75;0.75
-IGBR3;IGB ELETRÔNICA S/A;Financeiro;Exploração de Imóveis;0.0;0.0;32;0.0;0.0
-INEP3;INEPAR S.A. INDUSTRIA E CONSTRUCOES;Bens Industriais;Máq. e Equip. Industriais;0.0;0.0;0.87;0.0;0.0
-INEP4;INEPAR S.A. INDUSTRIA E CONSTRUCOES;Bens Industriais;Máq. e Equip. Industriais;0.0;0.0;0.88;0.0;0.0
-INTB3;INTELBRAS S.A. IND DE TELEC ELETRONICA BRASILEIRA;Tecnologia da Informação;Computadores e Equipamentos;0.16;0.16;25.26;0.63;0.63
-IRBR3;IRB - BRASIL RESSEGUROS S.A.;Financeiro;Seguradoras;0.12;0.1;2.77;4.33;3.61
-ITSA3;ITAUSA S.A.;Financeiro;Bancos;0.06;0.02;9.34;0.64;0.21
-ITSA4;ITAUSA S.A.;Financeiro;Bancos;0.06;0.02;8.89;0.67;0.22
-ITUB3;ITAU UNIBANCO HOLDING S.A.;Financeiro;Bancos;0.06;0.01;20.69;0.29;0.05
-ITUB4;ITAU UNIBANCO HOLDING S.A.;Financeiro;Bancos;0.06;0.01;24.1;0.25;0.04
-JALL3;JALLES MACHADO S.A.;Consumo não Cíclico;Açucar e Alcool;0.15;0.15;9.72;1.54;1.54
-JBSS3;JBS S.A.;Consumo não Cíclico;Carnes e Derivados;0.45;0.29;34.78;1.29;0.83
-JFEN3;JOAO FORTES ENGENHARIA S.A.;Consumo Cíclico;Incorporações;0.07;0.06;0.8;8.75;7.5
-JHSF3;JHSF PARTICIPACOES S.A.;Consumo Cíclico;Incorporações;0.12;0.12;6.58;1.82;1.82
-JOPA3;JOSAPAR-JOAQUIM OLIVEIRA S.A. - PARTICIP;Consumo não Cíclico;Alimentos Diversos;0.6;0.6;22.6;2.65;2.65
-JOPA4;JOSAPAR-JOAQUIM OLIVEIRA S.A. - PARTICIP;Consumo não Cíclico;Alimentos Diversos;0.6;0.59;36;1.67;1.64
-KEPL3;KEPLER WEBER S.A.;Bens Industriais;Máq. e Equip. Industriais;1.08;0.3;17.4;6.21;1.72
-KLBN11;KLABIN S.A.;Materiais Básicos;Papel e Celulose;0.16;0.14;21.36;0.75;0.66
-KLBN3;KLABIN S.A.;Materiais Básicos;Papel e Celulose;0.04;0.03;4.86;0.82;0.62
-KLBN4;KLABIN S.A.;Materiais Básicos;Papel e Celulose;0.04;0.03;4.17;0.96;0.72
-LCAM3;CIA LOCAÇÃO DAS AMÉRICAS;Consumo Cíclico;Aluguel de carros;0.06;0.07;23.14;0.26;0.3
-LEVE3;MAHLE-METAL LEVE S.A.;Consumo Cíclico;Automóveis e Motocicletas;0.36;0.17;24.36;1.48;0.7
-LIGT3;LIGHT S.A.;Utilidade Pública;Energia Elétrica;0.59;0.45;7.63;7.73;5.9
-LIPR3;ELETROBRÁS PARTICIPAÇÕES S.A. - ELETROPAR;Utilidade Pública;Energia Elétrica;1.16;0.61;66.1;1.75;0.92
-LJQQ3;LOJAS QUERO-QUERO S/A;Consumo Cíclico;Produtos Diversos;0.07;0.07;7.7;0.91;0.91
-LLIS3;RESTOQUE COMÉRCIO E CONFECÇÕES DE ROUPAS S.A.;Consumo Cíclico;Tecidos. Vestuário e Calçados;0.4;0.18;1.84;21.74;9.78
-LOGG3;LOG COMMERCIAL PROPERTIES;Financeiro;Exploração de Imóveis;0.23;0.21;20.48;1.12;1.03
-LOGN3;LOG-IN LOGISTICA INTERMODAL S.A.;Bens Industriais;Transporte Hidroviário;0.0;0.0;33.64;0.0;0.0
-LPSB3;LPS BRASIL - CONSULTORIA DE IMOVEIS S.A.;Financeiro;Intermediação Imobiliária;0.11;0.02;2.72;4.04;0.74
-LREN3;LOJAS RENNER S.A.;Consumo Cíclico;Tecidos. Vestuário e Calçados;0.18;0.08;24.08;0.75;0.33
-LUPA3;LUPATECH S.A.;Petróleo. Gás e Biocombustíveis;Equipamentos e Serviços;0.0;0.0;4.03;0.0;0.0
-LUXM4;TREVISA INVESTIMENTOS S.A.;Bens Industriais;Transporte Hidroviário;1.04;0.95;83;1.25;1.14
-LWSA3;LOCAWEB SERVIÇOS DE INTERNET S.A.;Tecnologia da Informação;Programas e Serviços;0.02;0.02;6.31;0.32;0.32
-MAPT3;CEMEPE INVESTIMENTOS S.A.;Outros;Outros;0.0;0.0;37;0.0;0.0
-MAPT4;CEMEPE INVESTIMENTOS S.A.;Outros;Outros;0.0;0.0;14.17;0.0;0.0
-MDIA3;M.DIAS BRANCO S.A. IND COM DE ALIMENTOS;Consumo não Cíclico;Alimentos Diversos;0.32;0.21;25.85;1.24;0.81
-MEAL3;INTERNATIONAL MEAL COMPANY ALIMENTACAO S.A.;Consumo Cíclico;Restaurante e Similares;0.01;0.01;1.79;0.56;0.56
-MELK3;MELNICK DESENVOLVIMENTO IMOBILIÁRIO S.A.;Consumo Cíclico;Incorporações;0.12;0.14;3.53;3.4;3.97
-MERC3;MERCANTIL BRASIL FINANC S.A. C.F.I.;Financeiro;Soc. Crédito e Financiamento;0.22;0.15;24.1;0.91;0.62
-MERC4;MERCANTIL BRASIL FINANC S.A. C.F.I.;Financeiro;Soc. Crédito e Financiamento;0.36;0.42;9;4.0;4.67
-MGEL4;MANGELS INDUSTRIAL S.A.;Materiais Básicos;Artefatos de Ferro e Aço;0.0;0.0;15.11;0.0;0.0
-MGLU3;MAGAZINE LUIZA S.A.;Consumo Cíclico;Eletrodomésticos;0.04;0.02;2.9;1.38;0.69
-MILS3;MILLS ESTRUTURAS E SERVIÇOS DE ENGENHARIA S.A.;Bens Industriais;Serviços Diversos;0.11;0.12;6.73;1.63;1.78
-MMXM3;MMX MINERACAO E METALICOS S.A.;Materiais Básicos;Minerais Metálicos;0.0;0.0;14;0.0;0.0
-MNDL3;MUNDIAL S.A. - PRODUTOS DE CONSUMO;Consumo Cíclico;Acessórios;0.0;0.0;24.4;0.0;0.0
-MNPR3;MINUPAR PARTICIPACOES S.A.;Consumo não Cíclico;Carnes e Derivados;0.0;0.0;7.2;0.0;0.0
-MOAR3;MONTEIRO ARANHA S.A.;Financeiro;Holdings Diversificadas;2.51;1.43;475;0.53;0.3
-MODL11;BANCO MODAL S.A;Financeiro;Bancos;0.07;0.07;7.91;0.88;0.88
-MODL3;BANCO MODAL S.A;Financeiro;Bancos;0.03;0.03;2.97;1.01;1.01
-MODL4;BANCO MODAL S.A;Financeiro;Bancos;0.03;0.03;2.38;1.26;1.26
-MOVI3;MOVIDA PARTICIPACOES SA;Consumo Cíclico;Aluguel de carros;0.08;0.08;15.51;0.52;0.52
-MRFG3;MARFRIG GLOBAL FOODS S.A.;Consumo não Cíclico;Carnes e Derivados;1.03;1.25;15.26;6.75;8.19
-MRSA3B;MRS LOGISTICA S.A.;Bens Industriais;Transporte Ferroviário;0.39;0.35;38.7;1.01;0.9
-MRSA5B;MRS LOGISTICA S.A.;Bens Industriais;Transporte Ferroviário;0.44;0.38;33;1.33;1.15
-MRSA6B;MRS LOGISTICA S.A.;Bens Industriais;Transporte Ferroviário;0.39;0.37;30.97;1.26;1.19
-MRVE3;MRV ENGENHARIA E PARTICIPACOES S.A.;Consumo Cíclico;Incorporações;0.33;0.35;8.44;3.91;4.15
-MSPA3;CIA MELHORAMENTOS DE SAO PAULO;Materiais Básicos;Papel e Celulose;2.48;2.3;50.01;4.96;4.6
-MSPA4;CIA MELHORAMENTOS DE SAO PAULO;Materiais Básicos;Papel e Celulose;2.7;2.53;46.5;5.81;5.44
-MTIG4;METALGRAFICA IGUACU S.A.;Materiais Básicos;Embalagens;0.11;0.0;40;0.28;0.0
-MTRE3;MITRE REALTY EMPREENDIMENTOS E PARTICIPAÇÕES S.A.;Consumo Cíclico;Incorporações;0.19;0.12;4.84;3.93;2.48
-MTSA3;METISA METALURGICA TIMBOENSE S.A.;Bens Industriais;Máq. e Equip. Construção e Agrícolas;0.44;0.36;70;0.63;0.51
-MTSA4;METISA METALURGICA TIMBOENSE S.A.;Bens Industriais;Máq. e Equip. Construção e Agrícolas;0.51;0.42;38.5;1.32;1.09
-MULT3;MULTIPLAN - EMPREEND IMOBILIARIOS S.A.;Financeiro;Exploração de Imóveis;0.23;0.18;22.59;1.02;0.8
-MWET3;WETZEL S.A.;Bens Industriais;Material Rodoviário;0.0;0.0;16.99;0.0;0.0
-MWET4;WETZEL S.A.;Bens Industriais;Material Rodoviário;0.0;0.0;10;0.0;0.0
-MYPK3;IOCHPE MAXION S.A.;Consumo Cíclico;Automóveis e Motocicletas;0.34;0.25;16.11;2.11;1.55
-NEOE3;NEOENERGIA S.A.;Utilidade Pública;Energia Elétrica;0.2;0.2;16.99;1.18;1.18
-NGRD3;NEOGRID PARTICIPACOES S.A.;Tecnologia da Informação;Programas e Serviços;0.01;0.01;2.1;0.48;0.48
-NORD3;NORDON INDUSTRIAS METALURGICAS S.A.;Bens Industriais;Máq. e Equip. Industriais;0.0;0.0;9.99;0.0;0.0
-NTCO3;NATURA &CO HOLDING S.A.;Consumo não Cíclico;Produtos de Uso Pessoal;0.02;0.02;15.65;0.13;0.13
-NUTR3;NUTRIPLANT INDUSTRIA E COMERCIO S.A.;Materiais Básicos;Fertilizantes e Defensivos;0.0;0.0;250;0.0;0.0
-ODER4;CONSERVAS ODERICH S.A.;Consumo não Cíclico;Alimentos Diversos;0.36;0.23;190;0.19;0.12
-ODPV3;ODONTOPREV S.A.;Saúde;Serv.Méd.Hospit..Análises e Diagnósticos;0.06;0.04;9.65;0.62;0.41
-OFSA3;OURO FINO SAUDE ANIMAL PARTICIPACOES S.A.;Saúde;Medicamentos e Outros Produtos;0.15;0.17;21.45;0.7;0.79
-OIBR3;OI S.A.;Comunicações;Telecomunicações;0.51;0.41;0.55;92.73;74.55
-OIBR4;OI S.A.;Comunicações;Telecomunicações;0.36;0.23;1.08;33.33;21.3
-OSXB3;OSX BRASIL S.A.;Petróleo. Gás e Biocombustíveis;Equipamentos e Serviços;0.0;0.0;6.28;0.0;0.0
-PARD3;INSTITUTO HERMES PARDINI S.A.;Saúde;Serv.Méd.Hospit..Análises e Diagnósticos;0.08;0.07;18.54;0.43;0.38
-PATI3;PANATLANTICA S.A.;Materiais Básicos;Artefatos de Ferro e Aço;0.27;0.16;74.38;0.36;0.22
-PATI4;PANATLANTICA S.A.;Materiais Básicos;Artefatos de Ferro e Aço;0.76;1.07;60.2;1.26;1.78
-PCAR3;CIA BRASILEIRA DE DISTRIBUICAO;Consumo não Cíclico;Alimentos;0.34;0.14;19.65;1.73;0.71
-PDGR3;PDG REALTY S.A. EMPREEND E PARTICIPACOES;Consumo Cíclico;Incorporações;0.04;0.0;1.18;3.39;0.0
-PEAB3;CIA PARTICIPACOES ALIANCA DA BAHIA;Financeiro;Holdings Diversificadas;4.43;2.47;61;7.26;4.05
-PEAB4;CIA PARTICIPACOES ALIANCA DA BAHIA;Financeiro;Holdings Diversificadas;5.02;2.74;71.01;7.07;3.86
-PETR3;PETROLEO BRASILEIRO S.A. PETROBRAS;Petróleo. Gás e Biocombustíveis;Exploração. Refino e Distribuição;0.48;0.2;32.91;1.46;0.61
-PETR4;PETROLEO BRASILEIRO S.A. PETROBRAS;Petróleo. Gás e Biocombustíveis;Exploração. Refino e Distribuição;0.5;0.16;29.65;1.69;0.54
-PETZ3;PET CENTER COMERCIO E PARTICIPACOES S.A.;Consumo Cíclico;Produtos Diversos;0.02;0.02;11.15;0.18;0.18
-PFRM3;PROFARMA DISTRIB PROD FARMACEUTICOS S.A.;Saúde;Medicamentos e Outros Produtos;0.19;0.17;3.49;5.44;4.87
-PINE4;BCO PINE S.A.;Financeiro;Bancos;0.13;0.15;1.19;10.92;12.61
-PLAS3;PLASCAR PARTICIPACOES INDUSTRIAIS S.A.;Consumo Cíclico;Automóveis e Motocicletas;0.01;0.01;7.77;0.13;0.13
-PLPL3;PLANO & PLANO DESENVOLVIMENTO IMOBILIÁRIO S.A.;Consumo Cíclico;Incorporações;0.2;0.2;2.33;8.58;8.58
-PMAM3;PARANAPANEMA S.A.;Materiais Básicos;Artefatos de Cobre;0.74;0.74;6.37;11.62;11.62
-PNVL3;DIMED S.A. DISTRIBUIDORA DE MEDICAMENTOS;Saúde;Medicamentos e Outros Produtos;0.24;0.07;10.28;2.33;0.68
-POMO3;MARCOPOLO S.A.;Bens Industriais;Material Rodoviário;0.04;0.03;2.26;1.77;1.33
-POMO4;MARCOPOLO S.A.;Bens Industriais;Material Rodoviário;0.04;0.03;2.68;1.49;1.12
-POSI3;POSITIVO TECNOLOGIA S.A.;Tecnologia da Informação;Computadores e Equipamentos;0.1;0.06;6.89;1.45;0.87
-PPLA11;PPLA PARTICIPATIONS LTD.;Financeiro;Gestão de Recursos e Investimentos;2.81;2.36;5.41;51.94;43.62
-PRIO3;PETRO RIO S.A.;Petróleo. Gás e Biocombustíveis;Exploração. Refino e Distribuição;0.0;0.0;27.1;0.0;0.0
-PRNR3;PRINER SERVIÇOS INDUSTRIAIS S.A.;Bens Industriais;Serviços Diversos;0.05;0.05;6.19;0.81;0.81
-PSSA3;PORTO SEGURO S.A.;Financeiro;Seguradoras;0.59;0.62;18.73;3.15;3.31
-PTBL3;PBG S/A;Bens Industriais;Produtos para Construção;0.12;0.07;7.75;1.55;0.9
-PTNT3;PETTENATI S.A. INDUSTRIA TEXTIL;Consumo Cíclico;Fios e Tecidos;0.12;0.12;13.1;0.92;0.92
-PTNT4;PETTENATI S.A. INDUSTRIA TEXTIL;Consumo Cíclico;Fios e Tecidos;0.12;0.12;5.55;2.16;2.16
-QUAL3;QUALICORP CONSULTORIA E CORRETORA DE SEGUROS S.A.;Saúde;Serv.Méd.Hospit..Análises e Diagnósticos;0.58;0.46;12.2;4.75;3.77
-RADL3;RAIA DROGASIL S.A.;Saúde;Medicamentos e Outros Produtos;0.04;0.03;20.8;0.19;0.14
-RAIL3;RUMO S.A.;Bens Industriais;Transporte Ferroviário;0.0;0.0;17.46;0.0;0.0
-RANI3;IRANI PAPEL E EMBALAGEM S.A.;Materiais Básicos;Papel e Celulose;0.05;0.04;7.04;0.71;0.57
-RAPT3;RANDON S.A. IMPLEMENTOS E PARTICIPACOES;Bens Industriais;Material Rodoviário;0.11;0.1;8.61;1.28;1.16
-RAPT4;RANDON S.A. IMPLEMENTOS E PARTICIPACOES;Bens Industriais;Material Rodoviário;0.11;0.1;9.77;1.13;1.02
-RCSL3;RECRUSUL S.A.;Bens Industriais;Material Rodoviário;0.0;0.0;2.38;0.0;0.0
-RCSL4;RECRUSUL S.A.;Bens Industriais;Material Rodoviário;0.0;0.0;0.77;0.0;0.0
-RDNI3;RNI NEGÓCIOS IMOBILIÁRIOS S.A.;Consumo Cíclico;Incorporações;0.37;0.38;7.84;4.72;4.85
-RDOR3;Rede DOr São Luiz S.A.;Saúde;Serv.Méd.Hospit..Análises e Diagnósticos;0.35;0.11;33.2;1.05;0.33
-REDE3;REDE ENERGIA PARTICIPAÇÕES S.A.;Utilidade Pública;Energia Elétrica;0.13;0.1;5.9;2.2;1.69
-RENT3;LOCALIZA RENT A CAR S.A.;Consumo Cíclico;Aluguel de carros;0.07;0.07;51.77;0.14;0.14
-RNEW11;RENOVA ENERGIA S.A.;Utilidade Pública;Energia Elétrica;0.14;0.14;4.56;3.07;3.07
-RNEW3;RENOVA ENERGIA S.A.;Utilidade Pública;Energia Elétrica;0.17;0.17;1.73;9.83;9.83
-RNEW4;RENOVA ENERGIA S.A.;Utilidade Pública;Energia Elétrica;0.0;0.0;1.47;0.0;0.0
-ROMI3;INDUSTRIAS ROMI S.A.;Bens Industriais;Máq. e Equip. Industriais;0.25;0.15;13.1;1.91;1.15
-RPAD3;ALFA HOLDINGS S.A.;Financeiro;Bancos;0.0;0.0;6.48;0.0;0.0
-RPAD5;ALFA HOLDINGS S.A.;Financeiro;Bancos;0.22;0.18;7.8;2.82;2.31
-RPAD6;ALFA HOLDINGS S.A.;Financeiro;Bancos;0.0;0.0;4.75;0.0;0.0
-RPMG3;REFINARIA DE PETROLEOS MANGUINHOS S.A.;Petróleo. Gás e Biocombustíveis;Exploração. Refino e Distribuição;0.0;0.0;2.29;0.0;0.0
-RSID3;ROSSI RESIDENCIAL S.A.;Consumo Cíclico;Incorporações;0.06;0.0;2.11;2.84;0.0
-RSUL4;METALURGICA RIOSULENSE S.A.;Bens Industriais;Material Rodoviário;0.0;0.0;69.67;0.0;0.0
-SANB11;BCO SANTANDER (BRASIL) S.A.;Financeiro;Bancos;0.38;0.17;31.1;1.22;0.55
-SANB3;BCO SANTANDER (BRASIL) S.A.;Financeiro;Bancos;0.17;0.08;14.93;1.14;0.54
-SANB4;BCO SANTANDER (BRASIL) S.A.;Financeiro;Bancos;0.18;0.08;16.47;1.09;0.49
-SAPR11;CIA SANEAMENTO DO PARANA - SANEPAR;Utilidade Pública;água e Saneamento;0.42;0.51;19.34;2.17;2.64
-SAPR3;CIA SANEAMENTO DO PARANA - SANEPAR;Utilidade Pública;água e Saneamento;0.08;0.09;3.79;2.11;2.37
-SAPR4;CIA SANEAMENTO DO PARANA - SANEPAR;Utilidade Pública;água e Saneamento;0.1;0.1;3.87;2.58;2.58
-SBSP3;CIA SANEAMENTO BASICO EST SAO PAULO;Utilidade Pública;água e Saneamento;1.04;1.03;43.05;2.42;2.39
-SCAR3;SAO CARLOS EMPREEND E PARTICIPACOES S.A.;Financeiro;Exploração de Imóveis;0.37;0.35;29.69;1.25;1.18
-SEER3;SER EDUCACIONAL S.A.;Consumo Cíclico;Serviços Educacionais;0.21;0.12;7.18;2.92;1.67
-SGPS3;SPRINGS GLOBAL PARTICIPACOES S.A.;Consumo Cíclico;Fios e Tecidos;0.0;0.0;2.56;0.0;0.0
-SHOW3;T4F ENTRETENIMENTO S.A.;Consumo Cíclico;Produção de Eventos e Shows;0.14;0.09;3.36;4.17;2.68
-SHUL3;SCHULZ S.A.;Bens Industriais;Motores . Compressores e Outros;0.04;0.04;112.01;0.04;0.04
-SHUL4;SCHULZ S.A.;Bens Industriais;Motores . Compressores e Outros;0.06;0.04;4.48;1.34;0.89
-SIMH3;SIMPAR S.A.;Financeiro;Holdings Diversificadas;0.11;0.11;10.92;1.01;1.01
-SLCE3;SLC AGRICOLA S.A.;Consumo não Cíclico;Agricultura;0.62;0.39;52.69;1.18;0.74
-SLED3;SARAIVA LIVREIROS S.A. - EM RECUPERAÇÃO JUDICIAL;Consumo Cíclico;Produtos Diversos;0.43;0.22;12;3.58;1.83
-SLED4;SARAIVA LIVREIROS S.A. - EM RECUPERAÇÃO JUDICIAL;Consumo Cíclico;Produtos Diversos;0.43;0.22;3.75;11.47;5.87
-SMTO3;SAO MARTINHO S.A.;Consumo não Cíclico;Açucar e Alcool;0.39;0.32;45.25;0.86;0.71
-SNSY3;SANSUY S.A. INDUSTRIA DE PLASTICOS;Materiais Básicos;Materiais Diversos;0.0;0.0;8.47;0.0;0.0
-SNSY5;SANSUY S.A. INDUSTRIA DE PLASTICOS;Materiais Básicos;Materiais Diversos;0.0;0.0;3.03;0.0;0.0
-SNSY6;SANSUY S.A. INDUSTRIA DE PLASTICOS;Materiais Básicos;Materiais Diversos;0.0;0.0;11.51;0.0;0.0
-SOND3;SONDOTECNICA ENGENHARIA SOLOS S.A.;Bens Industriais;Engenharia Consultiva;5.16;1.25;46.01;11.21;2.72
-SOND5;SONDOTECNICA ENGENHARIA SOLOS S.A.;Bens Industriais;Engenharia Consultiva;6.4;1.49;40;16.0;3.73
-SOND6;SONDOTECNICA ENGENHARIA SOLOS S.A.;Bens Industriais;Engenharia Consultiva;6.32;1.47;43;14.7;3.42
-SQIA3;SINQIA S.A.;Tecnologia da Informação;Programas e Serviços;0.05;0.03;17;0.29;0.18
-STBP3;SANTOS BRASIL PARTICIPACOES S.A.;Bens Industriais;Serviços de Apoio e Armazenagem;0.08;0.04;6.69;1.2;0.6
-SULA11;SUL AMERICA S.A.;Financeiro;Seguradoras;0.16;0.16;24.88;0.64;0.64
-SULA3;SUL AMERICA S.A.;Financeiro;Seguradoras;0.06;0.06;8.37;0.72;0.72
-SULA4;SUL AMERICA S.A.;Financeiro;Seguradoras;0.09;0.07;8.13;1.11;0.86
-SUZB3;SUZANO S.A.;Materiais Básicos;Papel e Celulose;0.22;0.18;51.69;0.43;0.35
-TAEE11;TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.;Utilidade Pública;Energia Elétrica;0.71;0.58;40.34;1.76;1.44
-TASA3;TAURUS ARMAS S.A.;Bens Industriais;Armas e Munições;0.03;0.03;18.39;0.16;0.16
-TASA4;TAURUS ARMAS S.A.;Bens Industriais;Armas e Munições;0.03;0.03;18.3;0.16;0.16
-TCNO3;TECNOSOLO ENGENHARIA S.A.;Bens Industriais;Engenharia Consultiva;0.0;0.0;1.43;0.0;0.0
-TCNO4;TECNOSOLO ENGENHARIA S.A.;Bens Industriais;Engenharia Consultiva;0.0;0.0;1.17;0.0;0.0
-TCSA3;TECNISA S.A.;Consumo Cíclico;Incorporações;0.48;0.3;2.13;22.54;14.08
-TECN3;TECHNOS S.A.;Consumo Cíclico;Acessórios;0.2;0.16;2.38;8.4;6.72
-TEKA3;TEKA-TECELAGEM KUEHNRICH S.A.;Consumo Cíclico;Fios e Tecidos;0.0;0.0;26.1;0.0;0.0
-TEKA4;TEKA-TECELAGEM KUEHNRICH S.A.;Consumo Cíclico;Fios e Tecidos;0.0;0.0;12.27;0.0;0.0
-TELB3;TELEC BRASILEIRAS S.A. TELEBRAS;Comunicações;Telecomunicações;0.0;0.0;31.5;0.0;0.0
-TELB4;TELEC BRASILEIRAS S.A. TELEBRAS;Comunicações;Telecomunicações;0.0;0.0;13.9;0.0;0.0
-TEND3;CONSTRUTORA TENDA S.A.;Consumo Cíclico;Incorporações;0.14;0.16;4.27;3.28;3.75
-TFCO4;TRACK & FIELD CO S.A.;Consumo Cíclico;Vestuário;0.04;0.05;9.33;0.43;0.54
-TGMA3;TEGMA GESTAO LOGISTICA S.A.;Bens Industriais;Transporte Rodoviário;0.3;0.26;14.65;2.05;1.77
-TKNO4;TEKNO S.A. - INDUSTRIA E COMERCIO;Materiais Básicos;Artefatos de Ferro e Aço;1.49;1.1;79.93;1.86;1.38
-TOTS3;TOTVS S.A.;Tecnologia da Informação;Programas e Serviços;0.15;0.08;26.23;0.57;0.3
-TPIS3;TPI - TRIUNFO PARTICIP. E INVEST. S.A.;Bens Industriais;Exploração de Rodovias;0.18;0.18;1.36;13.24;13.24
-TRIS3;TRISUL S.A.;Consumo Cíclico;Incorporações;0.13;0.13;3.4;3.82;3.82
-TRPL3;CTEEP - CIA TRANSMISSÃO ENERGIA ELÉTRICA PAULISTA;Utilidade Pública;Energia Elétrica;0.56;0.51;30;1.87;1.7
-TRPL4;CTEEP - CIA TRANSMISSÃO ENERGIA ELÉTRICA PAULISTA;Utilidade Pública;Energia Elétrica;0.57;0.5;22.94;2.48;2.18
-TUPY3;TUPY S.A.;Bens Industriais;Material Rodoviário;0.29;0.22;23.08;1.26;0.95
-TXRX3;TEXTIL RENAUXVIEW S.A.;Consumo Cíclico;Fios e Tecidos;0.0;0.0;26.96;0.0;0.0
-TXRX4;TEXTIL RENAUXVIEW S.A.;Consumo Cíclico;Fios e Tecidos;0.0;0.0;5.05;0.0;0.0
-UCAS3;UNICASA INDÚSTRIA DE MÓVEIS S.A.;Consumo Cíclico;Móveis;0.19;0.13;3;6.33;4.33
-UGPA3;ULTRAPAR PARTICIPACOES S.A.;Petróleo. Gás e Biocombustíveis;Exploração. Refino e Distribuição;0.43;0.43;12.75;3.37;3.37
-UNIP3;UNIPAR CARBOCLORO S.A.;Materiais Básicos;Químicos Diversos;0.8;0.26;86.99;0.92;0.3
-UNIP5;UNIPAR CARBOCLORO S.A.;Materiais Básicos;Químicos Diversos;0.98;0.41;99.12;0.99;0.41
-UNIP6;UNIPAR CARBOCLORO S.A.;Materiais Básicos;Químicos Diversos;0.92;0.27;97.18;0.95;0.28
-USIM3;USINAS SID DE MINAS GERAIS S.A.-USIMINAS;Materiais Básicos;Siderurgia;0.16;0.05;9.86;1.62;0.51
-USIM5;USINAS SID DE MINAS GERAIS S.A.-USIMINAS;Materiais Básicos;Siderurgia;0.16;0.07;10.11;1.58;0.69
-USIM6;USINAS SID DE MINAS GERAIS S.A.-USIMINAS;Materiais Básicos;Siderurgia;0.17;0.06;14.5;1.17;0.41
-VALE3;VALE S.A.;Materiais Básicos;Minerais Metálicos;1.56;0.91;84.56;1.84;1.08
-VAMO3;VAMOS LOCAÇÃO DE CAMINHÕES. MÁQUINAS E EQUIP. S.A.;Consumo Cíclico;Aluguel de carros;0.13;0.2;13.65;0.95;1.47
-VIVA3;VIVARA PARTICIPAÇOES S.A;Consumo Cíclico;Acessórios;0.15;0.14;21.24;0.71;0.66
-VIVR3;VIVER INCORPORADORA E CONSTRUTORA S.A.;Consumo Cíclico;Incorporações;0.0;0.0;0.81;0.0;0.0
-VIVT3;TELEFÔNICA BRASIL S.A;Comunicações;Telecomunicações;0.49;0.34;46.8;1.05;0.73
-VLID3;VALID SOLUÇÕES S.A.;Bens Industriais;Serviços Diversos;0.26;0.2;9.88;2.63;2.02
-VULC3;VULCABRAS S.A.;Consumo Cíclico;Calçados;0.23;0.35;10.76;2.14;3.25
-WEGE3;WEG S.A.;Bens Industriais;Motores . Compressores e Outros;0.06;0.05;24;0.25;0.21
-WHRL3;WHIRLPOOL S.A.;Consumo Cíclico;Eletrodomésticos;0.33;0.25;5;6.6;5.0
-WHRL4;WHIRLPOOL S.A.;Consumo Cíclico;Eletrodomésticos;0.36;0.27;5.08;7.09;5.31
-WIZS3;WIZ SOLUÇÕES E CORRETAGEM DE SEGUROS S.A.;Financeiro;Corretoras de Seguros;0.36;0.23;8;4.5;2.88
-WLMM3;WLM PART. E COMÉRCIO DE MÁQUINAS E VEÍCULOS S.A.;Bens Industriais;Material de Transporte;0.2;0.17;27.84;0.72;0.61
-WLMM4;WLM PART. E COMÉRCIO DE MÁQUINAS E VEÍCULOS S.A.;Bens Industriais;Material de Transporte;0.49;0.35;30.97;1.58;1.13
-YDUQ3;YDUQS PARTICIPACOES S.A.;Consumo Cíclico;Serviços Educacionais;0.44;0.35;14.25;3.09;2.46
+TICKET;EMPRESA;SETOR;SEGMENTO;DIV ULT;DIV MEDIO;DIV MEDIANA;PRECO ATUAL;TAXA ULT;TAXA M;TAXA MD
+AALR3;CENTRO DE IMAGEM DIAGNOSTICOS S.A.;Saúde;Serv.Méd.Hospit..Análises e Diagnósticos;0;0.01;0.0;20;0.05;0.05;0.0
+ABCB4;BCO ABC BRASIL S.A.;Financeiro;Bancos;1.0;0.69;0.75;15.91;4.34;4.34;4.71
+ABEV3;AMBEV S.A.;Consumo não Cíclico;Cervejas e Refrigerantes;0.68;0.62;0.55;13.59;4.56;4.56;4.05
+ADHM3;ADVANCED DIGITAL HEALTH MEDICINA PREVENTIVA S.A.;Saúde;Serv.Méd.Hospit..Análises e Diagnósticos;0;0.0;0.0;1.56;0.0;0.0;0.0
+AERI3;AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S/A;Bens Industriais;Máq. e Equip. Industriais;0;0;0.0;3.09;0.0;0.0;0.0
+AESB3;AES BRASIL ENERGIA S.A.;Utilidade Pública;Energia Elétrica;0.23;0.02;0.0;10.43;0.19;0.19;0.0
+AFLT3;AFLUENTE TRANSMISSÃO DE ENERGIA ELÉTRICA S/A;Utilidade Pública;Energia Elétrica;0.31;0.3;0.28;9.09;3.3;3.3;3.08
+AGRO3;BRASILAGRO - CIA BRAS DE PROP AGRICOLAS;Consumo não Cíclico;Agricultura;2.62;0.74;0.65;28.98;2.55;2.55;2.24
+ALLD3;ALLIED TECNOLOGIA S.A.;Consumo Cíclico;Eletrodomésticos;0.76;0.08;0.0;11.34;0.71;0.71;0.0
+ALPA3;ALPARGATAS S.A.;Consumo Cíclico;Calçados;0.25;0.22;0.22;17.18;1.28;1.28;1.28
+ALPA4;ALPARGATAS S.A.;Consumo Cíclico;Calçados;0.27;0.2;0.22;19.23;1.04;1.04;1.14
+ALSO3;ALIANSCE SONAE SHOPPING CENTERS S.A.;Financeiro;Exploração de Imóveis;0.23;0.02;0.0;17.91;0.11;0.11;0.0
+ALUP11;ALUPAR INVESTIMENTO S/A;Utilidade Pública;Energia Elétrica;0.84;0.27;0.0;25.96;1.04;1.04;0.0
+ALUP3;ALUPAR INVESTIMENTO S/A;Utilidade Pública;Energia Elétrica;0.28;0.11;0.07;8.7;1.26;1.26;0.8
+ALUP4;ALUPAR INVESTIMENTO S/A;Utilidade Pública;Energia Elétrica;0.28;0.11;0.07;8.8;1.25;1.25;0.8
+AMAR3;MARISA LOJAS S.A.;Consumo Cíclico;Tecidos. Vestuário e Calçados;0;0.07;0.0;2.05;3.41;3.41;0.0
+AMBP3;AMBIPAR PARTICIPACOES E EMPREENDIMENTOS S/A;Utilidade Pública;água e Saneamento;0.09;0.01;0.0;25.55;0.04;0.04;0.0
+ANIM3;ANIMA HOLDING S.A.;Consumo Cíclico;Serviços Educacionais;0.0;0.08;0.01;4.99;1.6;1.6;0.2
+APER3;ALPER CONSULTORIA E CORRETORA DE SEGUROS S.A.;Financeiro;Corretoras de Seguros;0;0.28;0.0;32.33;0.87;0.87;0.0
+ARZZ3;AREZZO INDÚSTRIA E COMÉRCIO S.A.;Consumo Cíclico;Tecidos. Vestuário e Calçados;0.93;0.91;0.88;73.44;1.24;1.24;1.2
+ASAI3;SENDAS DISTRIBUIDORA S.A.;Consumo não Cíclico;Alimentos;0.36;0.04;0.0;15.04;0.27;0.27;0.0
+ATMP3;ATMA PARTICIPAÇÕES S.A.;Bens Industriais;Serviços Diversos;0;0.27;0.0;1.55;17.42;17.42;0.0
+ATOM3;ATOM EMPREENDIMENTOS E PARTICIPAÇÕES S.A.;Outros;Outros;0.3;0.03;0.0;2.55;1.18;1.18;0.0
+AZEV3;AZEVEDO E TRAVASSOS S.A.;Bens Industriais;Construção Pesada;0;0.02;0.0;3.24;0.62;0.62;0.0
+AZEV4;AZEVEDO E TRAVASSOS S.A.;Bens Industriais;Construção Pesada;0;0.04;0.0;2.44;1.64;1.64;0.0
+B3SA3;B3 S.A. - BRASIL. BOLSA. BALCÃO;Financeiro;Serviços Financeiros Diversos;0.98;0.69;0.67;11.66;5.92;5.92;5.75
+BAHI3;BAHEMA EDUCAÇÃO S.A.;Consumo Cíclico;Serviços Educacionais;0.0;0.41;0.25;12.8;3.2;3.2;1.95
+BALM3;BAUMER S.A.;Saúde;Equipamentos;0.34;0.36;0.22;14.42;2.5;2.5;1.53
+BALM4;BAUMER S.A.;Saúde;Equipamentos;0.41;0.42;0.27;10.7;3.93;3.93;2.52
+BAUH4;EXCELSIOR ALIMENTOS S.A.;Consumo não Cíclico;Carnes e Derivados;0.67;0.37;0.41;77.86;0.48;0.48;0.53
+BAZA3;BCO AMAZONIA S.A.;Financeiro;Bancos;2.6;1.64;0.76;41;4.0;4.0;1.85
+BBAS3;BCO BRASIL S.A.;Financeiro;Bancos;2.27;1.74;1.59;34.55;5.04;5.04;4.6
+BBDC3;BCO BRADESCO S.A.;Financeiro;Bancos;0.94;0.75;0.71;15.91;4.71;4.71;4.46
+BBDC4;BCO BRADESCO S.A.;Financeiro;Bancos;1.04;0.97;0.83;19.11;5.08;5.08;4.34
+BBRK3;BRASIL BROKERS PARTICIPACOES S.A.;Financeiro;Intermediação Imobiliária;0;0.14;0.0;0.8;17.5;17.5;0.0
+BBSE3;BB SEGURIDADE PARTICIPAÇÕES S.A.;Financeiro;Seguradoras;1.0;1.64;1.61;24.6;6.67;6.67;6.54
+BDLL3;BARDELLA S.A. INDUSTRIAS MECANICAS;Bens Industriais;Máq. e Equip. Industriais;0;1.18;0.0;11;10.73;10.73;0.0
+BDLL4;BARDELLA S.A. INDUSTRIAS MECANICAS;Bens Industriais;Máq. e Equip. Industriais;0;2.34;0.0;8.5;27.53;27.53;0.0
+BEEF3;MINERVA S.A.;Consumo não Cíclico;Carnes e Derivados;1.12;0.18;0.0;13.93;1.29;1.29;0.0
+BEES3;BANESTES S.A. - BCO EST ESPIRITO SANTO;Financeiro;Bancos;0.33;0.17;0.19;5.16;3.29;3.29;3.68
+BEES4;BANESTES S.A. - BCO EST ESPIRITO SANTO;Financeiro;Bancos;0.33;0.18;0.2;5.26;3.42;3.42;3.8
+BGIP3;BCO ESTADO DE SERGIPE S.A. - BANESE;Financeiro;Bancos;1.13;1.52;1.28;29.46;5.16;5.16;4.34
+BGIP4;BCO ESTADO DE SERGIPE S.A. - BANESE;Financeiro;Bancos;1.25;1.81;1.4;19.15;9.45;9.45;7.31
+BIDI3;BANCO INTER S.A.;Financeiro;Bancos;0.02;0.01;0.0;3.43;0.29;0.29;0.0
+BIDI4;BANCO INTER S.A.;Financeiro;Bancos;0.02;0.03;0.0;3.58;0.84;0.84;0.0
+BIOM3;BIOMM S.A.;Saúde;Medicamentos e Outros Produtos;0;0.0;0.0;10.01;0.0;0.0;0.0
+BKBR3;BK BRASIL OPERAÇÃO E ASSESSORIA A RESTAURANTES SA;Consumo Cíclico;Restaurante e Similares;0;0.02;0.0;6.51;0.31;0.31;0.0
+BLAU3;BLAU FARMACÊUTICA S.A.;Saúde;Medicamentos e Outros Produtos;0.25;0.02;0.0;25.94;0.08;0.08;0.0
+BMEB3;BCO MERCANTIL DO BRASIL S.A.;Financeiro;Bancos;1.18;0.37;0.18;12.36;2.99;2.99;1.46
+BMEB4;BCO MERCANTIL DO BRASIL S.A.;Financeiro;Bancos;1.3;0.67;0.66;10.23;6.55;6.55;6.45
+BMGB4;BANCO BMG S.A.;Financeiro;Bancos;0.32;0.07;0.0;2.63;2.66;2.66;0.0
+BMIN3;BCO MERCANTIL DE INVESTIMENTOS S.A.;Financeiro;Bancos;0;0.21;0.01;20;1.05;1.05;0.05
+BMIN4;BCO MERCANTIL DE INVESTIMENTOS S.A.;Financeiro;Bancos;1.95;0.95;0.93;14.34;6.62;6.62;6.49
+BMKS3;BICICLETAS MONARK S.A.;Consumo Cíclico;Bicicletas;7.93;23.8;23.05;249.87;9.52;9.52;9.22
+BNBR3;BCO NORDESTE DO BRASIL S.A.;Financeiro;Bancos;4.78;2.25;1.77;70;3.21;3.21;2.53
+BOAS3;BOA VISTA SERVIÇOS S.A.;Financeiro;Serviços Financeiros Diversos;0.09;0.01;0.0;5.57;0.18;0.18;0.0
+BPAC11;BCO BTG PACTUAL S.A.;Financeiro;Bancos;0.86;0.55;0.34;22.43;2.45;2.45;1.52
+BPAC3;BCO BTG PACTUAL S.A.;Financeiro;Bancos;0.28;0.21;0.14;12.8;1.64;1.64;1.09
+BPAC5;BCO BTG PACTUAL S.A.;Financeiro;Bancos;0.29;0.22;0.14;4.97;4.43;4.43;2.82
+BPAN4;BCO PAN S.A.;Financeiro;Bancos;0.22;0.07;0.0;6.83;1.02;1.02;0.0
+BRAP3;BRADESPAR S.A.;Materiais Básicos;Minerais Metálicos;9.58;2.08;1.23;25.4;8.19;8.19;4.84
+BRAP4;BRADESPAR S.A.;Materiais Básicos;Minerais Metálicos;10.54;2.24;1.32;28.88;7.76;7.76;4.57
+BRFS3;BRF S.A.;Consumo não Cíclico;Carnes e Derivados;0;0.4;0.0;15;2.67;2.67;0.0
+BRGE11;CONSORCIO ALFA DE ADMINISTRACAO S.A.;Financeiro;Seguradoras;0.37;0.29;0.29;7.71;3.76;3.76;3.76
+BRGE12;CONSORCIO ALFA DE ADMINISTRACAO S.A.;Financeiro;Seguradoras;0.0;0.0;0.0;6.95;0.0;0.0;0.0
+BRGE3;CONSORCIO ALFA DE ADMINISTRACAO S.A.;Financeiro;Seguradoras;0.0;0.01;0.0;6.6;0.15;0.15;0.0
+BRGE5;CONSORCIO ALFA DE ADMINISTRACAO S.A.;Financeiro;Seguradoras;0.31;0.24;0.24;9.81;2.45;2.45;2.45
+BRGE6;CONSORCIO ALFA DE ADMINISTRACAO S.A.;Financeiro;Seguradoras;0.73;0.58;0.58;8.5;6.82;6.82;6.82
+BRGE8;CONSORCIO ALFA DE ADMINISTRACAO S.A.;Financeiro;Seguradoras;0.31;0.24;0.24;8.9;2.7;2.7;2.7
+BRIV3;BCO ALFA DE INVESTIMENTO S.A.;Financeiro;Bancos;0.02;0.05;0.04;6.35;0.79;0.79;0.63
+BRIV4;BCO ALFA DE INVESTIMENTO S.A.;Financeiro;Bancos;0.6;0.47;0.47;6.24;7.53;7.53;7.53
+BRKM3;BRASKEM S.A.;Materiais Básicos;Petroquímicos;7.54;1.92;0.93;43.5;4.41;4.41;2.14
+BRKM5;BRASKEM S.A.;Materiais Básicos;Petroquímicos;7.54;1.98;1.23;44.09;4.49;4.49;2.79
+BRKM6;BRASKEM S.A.;Materiais Básicos;Petroquímicos;0.61;0.61;0.61;26.04;2.34;2.34;2.34
+BRML3;BR MALLS PARTICIPACOES S.A.;Financeiro;Exploração de Imóveis;0;0.27;0.12;8.05;3.35;3.35;1.49
+BRPR3;BR PROPERTIES S.A.;Financeiro;Exploração de Imóveis;0.2;0.86;0.18;8.6;10.0;10.0;2.09
+BRSR3;BCO ESTADO DO RIO GRANDE DO SUL S.A.;Financeiro;Bancos;1.27;0.75;0.69;11.97;6.27;6.27;5.76
+BRSR5;BCO ESTADO DO RIO GRANDE DO SUL S.A.;Financeiro;Bancos;1.52;0.86;0.66;17.1;5.03;5.03;3.86
+BRSR6;BCO ESTADO DO RIO GRANDE DO SUL S.A.;Financeiro;Bancos;1.27;0.87;0.8;9.95;8.74;8.74;8.04
+BSLI3;BRB BCO DE BRASILIA S.A.;Financeiro;Bancos;0.49;0.42;0.36;22;1.91;1.91;1.64
+BSLI4;BRB BCO DE BRASILIA S.A.;Financeiro;Bancos;0.54;0.39;0.26;17.35;2.25;2.25;1.5
+CALI4;CONSTRUTORA ADOLPHO LINDENBERG S.A.;Consumo Cíclico;Incorporações;0;3.39;2.79;50;6.78;6.78;5.58
+CAML3;CAMIL ALIMENTOS S.A.;Consumo não Cíclico;Alimentos Diversos;0.25;0.13;0.08;10.23;1.27;1.27;0.78
+CARD3;CSU CARDSYSTEM S.A.;Financeiro;Serviços Financeiros Diversos;0.41;0.23;0.28;13.07;1.76;1.76;2.14
+CASN4;CIA CATARINENSE DE AGUAS E SANEAM.-CASAN;Utilidade Pública;água e Saneamento;0.04;0.02;0.01;10;0.2;0.2;0.1
+CBEE3;AMPLA ENERGIA E SERVICOS S.A.;Utilidade Pública;Energia Elétrica;0.14;0.11;0.0;19.21;0.57;0.57;0.0
+CCRO3;CCR S.A.;Bens Industriais;Exploração de Rodovias;0.17;0.59;0.62;13.05;4.52;4.52;4.75
+CEAB3;CEA MODAS S.A.;Consumo Cíclico;Tecidos. Vestuário e Calçados;0;0.03;0.0;2.73;1.1;1.1;0.0
+CEBR3;CIA ENERGETICA DE BRASILIA;Utilidade Pública;Energia Elétrica;106.4;11.25;0.05;14.93;75.35;75.35;0.33
+CEBR5;CIA ENERGETICA DE BRASILIA;Utilidade Pública;Energia Elétrica;106.4;13.06;1.96;12.39;105.41;105.41;15.82
+CEBR6;CIA ENERGETICA DE BRASILIA;Utilidade Pública;Energia Elétrica;117.04;12.48;0.05;13;96.0;96.0;0.38
+CEDO3;CIA FIACAO TECIDOS CEDRO CACHOEIRA;Consumo Cíclico;Fios e Tecidos;0;0.12;0.0;7;1.71;1.71;0.0
+CEDO4;CIA FIACAO TECIDOS CEDRO CACHOEIRA;Consumo Cíclico;Fios e Tecidos;0;0.08;0.0;4.49;1.78;1.78;0.0
+CEEB3;CIA ELETRICIDADE EST. DA BAHIA - COELBA;Utilidade Pública;Energia Elétrica;6.03;1.6;0.81;37.5;4.27;4.27;2.16
+CEEB5;CIA ELETRICIDADE EST. DA BAHIA - COELBA;Utilidade Pública;Energia Elétrica;6.03;1.6;0.81;34.49;4.64;4.64;2.35
+CEED3;CIA ESTADUAL DE DISTRIB ENER ELET-CEEE-D;Utilidade Pública;Energia Elétrica;0;0.0;0.0;42;0.0;0.0;0.0
+CEED4;CIA ESTADUAL DE DISTRIB ENER ELET-CEEE-D;Utilidade Pública;Energia Elétrica;0;0.0;0.0;65.5;0.0;0.0;0.0
+CEGR3;CIA DISTRIB DE GAS DO RIO DE JANEIRO-CEG;Utilidade Pública;Gás;2.16;1.53;1.04;89;1.72;1.72;1.17
+CEPE3;CIA ENERGETICA DE PERNAMBUCO - CELPE;Utilidade Pública;Energia Elétrica;2.96;1.1;0.95;128;0.86;0.86;0.74
+CEPE5;CIA ENERGETICA DE PERNAMBUCO - CELPE;Utilidade Pública;Energia Elétrica;2.96;1.2;0.95;40.01;3.0;3.0;2.37
+CEPE6;CIA ENERGETICA DE PERNAMBUCO - CELPE;Utilidade Pública;Energia Elétrica;3.26;1.24;1.05;40.16;3.09;3.09;2.61
+CGAS3;CIA GAS DE SAO PAULO - COMGAS;Utilidade Pública;Gás;12.19;6.98;7.27;120;5.82;5.82;6.06
+CGAS5;CIA GAS DE SAO PAULO - COMGAS;Utilidade Pública;Gás;13.41;7.74;7.99;125.54;6.17;6.17;6.36
+CGRA3;GRAZZIOTIN S.A.;Consumo Cíclico;Tecidos. Vestuário e Calçados;1.35;1.0;1.01;29.4;3.4;3.4;3.44
+CGRA4;GRAZZIOTIN S.A.;Consumo Cíclico;Tecidos. Vestuário e Calçados;1.35;1.06;1.01;29.2;3.63;3.63;3.46
+CIEL3;CIELO S.A.;Financeiro;Serviços Financeiros Diversos;0.18;1.07;0.76;3.78;28.31;28.31;20.11
+CLSC3;CENTRAIS ELET DE SANTA CATARINA S.A.;Utilidade Pública;Energia Elétrica;6.19;1.45;0.47;57;2.54;2.54;0.82
+CLSC4;CENTRAIS ELET DE SANTA CATARINA S.A.;Utilidade Pública;Energia Elétrica;6.81;1.51;1.03;58.91;2.56;2.56;1.75
+CMIG3;CIA ENERGETICA DE MINAS GERAIS - CEMIG;Utilidade Pública;Energia Elétrica;1.37;0.71;0.57;14.9;4.77;4.77;3.83
+CMIG4;CIA ENERGETICA DE MINAS GERAIS - CEMIG;Utilidade Pública;Energia Elétrica;1.37;0.82;0.73;10.92;7.51;7.51;6.68
+CMIN3;CSN MINERAÇÃO S.A.;Materiais Básicos;Minerais Metálicos;0.47;0.05;0.0;5.22;0.96;0.96;0.0
+COCE3;CIA ENERGETICA DO CEARA - COELCE;Utilidade Pública;Energia Elétrica;3.62;1.94;1.93;58.92;3.29;3.29;3.28
+COCE5;CIA ENERGETICA DO CEARA - COELCE;Utilidade Pública;Energia Elétrica;3.62;1.94;1.93;48.2;4.02;4.02;4.0
+COGN3;COGNA EDUCAÇÃO S.A.;Consumo Cíclico;Serviços Educacionais;0;0.42;0.26;2.51;16.73;16.73;10.36
+CORR4;CORREA RIBEIRO S.A. COMERCIO E INDUSTRIA;Financeiro;Exploração de Imóveis;6.15;0.61;0.0;82;0.74;0.74;0.0
+CPFE3;CPFL ENERGIA S.A.;Utilidade Pública;Energia Elétrica;3.7;1.18;0.67;31.93;3.7;3.7;2.1
+CPLE3;CIA PARANAENSE DE ENERGIA - COPEL;Utilidade Pública;Energia Elétrica;1.09;0.82;0.56;6.39;12.83;12.83;8.76
+CPLE5;CIA PARANAENSE DE ENERGIA - COPEL;Utilidade Pública;Energia Elétrica;1.27;1.19;0.82;22;5.41;5.41;3.73
+CPLE6;CIA PARANAENSE DE ENERGIA - COPEL;Utilidade Pública;Energia Elétrica;1.2;0.82;0.53;6.95;11.8;11.8;7.63
+CRDE3;CR2 EMPREENDIMENTOS IMOBILIARIOS S.A.;Consumo Cíclico;Incorporações;0;0.42;0.0;21.49;1.95;1.95;0.0
+CRFB3;ATACADÃO S.A.;Consumo não Cíclico;Alimentos;1.19;0.21;0.0;17.83;1.18;1.18;0.0
+CRIV3;FINANCEIRA ALFA S.A.- CRED FINANC E INVS;Financeiro;Soc. Crédito e Financiamento;0;0.04;0.01;4.49;0.89;0.89;0.22
+CRIV4;FINANCEIRA ALFA S.A.- CRED FINANC E INVS;Financeiro;Soc. Crédito e Financiamento;0.45;0.33;0.34;4.9;6.73;6.73;6.94
+CRPG3;TRONOX PIGMENTOS DO BRASIL S.A.;Materiais Básicos;Químicos Diversos;5.76;1.09;0.17;41.3;2.64;2.64;0.41
+CRPG5;TRONOX PIGMENTOS DO BRASIL S.A.;Materiais Básicos;Químicos Diversos;5.76;1.08;0.17;37.67;2.87;2.87;0.45
+CRPG6;TRONOX PIGMENTOS DO BRASIL S.A.;Materiais Básicos;Químicos Diversos;4.04;0.9;0.17;38.8;2.32;2.32;0.44
+CSAB3;CIA SEGUROS ALIANCA DA BAHIA;Financeiro;Seguradoras;1.86;3.3;2.6;65;5.08;5.08;4.0
+CSAB4;CIA SEGUROS ALIANCA DA BAHIA;Financeiro;Seguradoras;2.05;3.07;2.02;50;6.14;6.14;4.04
+CSAN3;COSAN S.A.;Petróleo. Gás e Biocombustíveis;Exploração. Refino e Distribuição;0.63;0.97;0.74;19.74;4.91;4.91;3.75
+CSED3;CRUZEIRO DO SUL EDUCACIONAL S.A.;Consumo Cíclico;Serviços Educacionais;0.19;0.02;0.0;3.21;0.62;0.62;0.0
+CSMG3;CIA SANEAMENTO DE MINAS GERAIS-COPASA MG;Utilidade Pública;água e Saneamento;0.8;1.02;0.97;12.48;8.17;8.17;7.77
+CSNA3;CIA SIDERURGICA NACIONAL;Materiais Básicos;Siderurgia;1.92;0.72;0.52;19.63;3.67;3.67;2.65
+CSRN3;CIA ENERGETICA DO RIO GDE NORTE - COSERN;Utilidade Pública;Energia Elétrica;2.01;0.86;0.89;22.35;3.85;3.85;3.98
+CSRN5;CIA ENERGETICA DO RIO GDE NORTE - COSERN;Utilidade Pública;Energia Elétrica;2.21;0.95;0.97;22.4;4.24;4.24;4.33
+CSRN6;CIA ENERGETICA DO RIO GDE NORTE - COSERN;Utilidade Pública;Energia Elétrica;2.21;0.93;0.88;22;4.23;4.23;4.0
+CTKA3;KARSTEN S.A.;Consumo Cíclico;Fios e Tecidos;0;0.0;0.0;27.5;0.0;0.0;0.0
+CTKA4;KARSTEN S.A.;Consumo Cíclico;Fios e Tecidos;0;0.0;0.0;11.55;0.0;0.0;0.0
+CTNM3;CIA TECIDOS NORTE DE MINAS COTEMINAS;Consumo Cíclico;Fios e Tecidos;0;0.0;0.0;8.99;0.0;0.0;0.0
+CTNM4;CIA TECIDOS NORTE DE MINAS COTEMINAS;Consumo Cíclico;Fios e Tecidos;0;0.0;0.0;2.53;0.0;0.0;0.0
+CTSA3;CIA TECIDOS SANTANENSE;Consumo Cíclico;Fios e Tecidos;0;0.3;0.1;1.7;17.65;17.65;5.88
+CTSA4;CIA TECIDOS SANTANENSE;Consumo Cíclico;Fios e Tecidos;0;0.16;0.07;0.85;18.82;18.82;8.24
+CURY3;CURY CONSTRUTORA E INCORPORADORA S.A.;Consumo Cíclico;Incorporações;0.57;0.06;0.0;6.12;0.98;0.98;0.0
+CVCB3;CVC BRASIL OPERADORA E AGÊNCIA DE VIAGENS S.A.;Consumo Cíclico;Viagens e Turismo;0;0.28;0.3;9.3;3.01;3.01;3.23
+CXSE3;CAIXA SEGURIDADE PARTICIPAÇÕES S.A.;Financeiro;Seguradoras;0.24;0.02;0.0;7.13;0.28;0.28;0.0
+CYRE3;CYRELA BRAZIL REALTY S.A.EMPREEND E PART;Consumo Cíclico;Incorporações;1.09;0.76;0.4;12.19;6.23;6.23;3.28
+DASA3;DIAGNOSTICOS DA AMERICA S.A.;Saúde;Serv.Méd.Hospit..Análises e Diagnósticos;0.59;0.23;0.09;17.77;1.29;1.29;0.51
+DIRR3;DIRECIONAL ENGENHARIA S.A.;Consumo Cíclico;Incorporações;0.69;0.5;0.53;9.86;5.07;5.07;5.38
+DMMO3;DOMMO ENERGIA S.A.;Petróleo. Gás e Biocombustíveis;Exploração. Refino e Distribuição;0;0.0;0.0;1.52;0.0;0.0;0.0
+DOHL3;DOHLER S.A.;Consumo Cíclico;Fios e Tecidos;0.19;0.09;0.04;19;0.47;0.47;0.21
+DOHL4;DOHLER S.A.;Consumo Cíclico;Fios e Tecidos;0.2;0.17;0.18;5.95;2.86;2.86;3.03
+DTCY3;DTCOM - DIRECT TO COMPANY S.A.;Bens Industriais;Serviços Diversos;0;0.0;0.0;7.85;0.0;0.0;0.0
+EALT3;ELECTRO ACO ALTONA S.A.;Bens Industriais;Máq. e Equip. Industriais;0.28;0.33;0.19;9.1;3.63;3.63;2.09
+EALT4;ELECTRO ACO ALTONA S.A.;Bens Industriais;Máq. e Equip. Industriais;0.31;0.4;0.25;7.13;5.61;5.61;3.51
+ECOR3;ECORODOVIAS INFRAESTRUTURA E LOGÍSTICA S.A.;Bens Industriais;Exploração de Rodovias;0;0.48;0.39;6.74;7.12;7.12;5.79
+ECPR3;EMPRESA NAC COM REDITO PART S.A.ENCORPAR;Consumo Cíclico;Fios e Tecidos;0;3.17;0.0;90.25;3.51;3.51;0.0
+ECPR4;EMPRESA NAC COM REDITO PART S.A.ENCORPAR;Consumo Cíclico;Fios e Tecidos;0;1.14;0.0;90.74;1.26;1.26;0.0
+EEEL3;CIA ESTADUAL GER.TRANS.ENER.ELET-CEEE-GT;Utilidade Pública;Energia Elétrica;30.78;10.58;6.66;421.01;2.51;2.51;1.58
+EEEL4;CIA ESTADUAL GER.TRANS.ENER.ELET-CEEE-GT;Utilidade Pública;Energia Elétrica;33.86;10.05;7.32;410;2.45;2.45;1.79
+EGIE3;ENGIE BRASIL ENERGIA S.A.;Utilidade Pública;Energia Elétrica;2.77;2.28;2.27;40.92;5.57;5.57;5.55
+EKTR3;ELEKTRO REDES S.A.;Utilidade Pública;Energia Elétrica;3.03;1.4;1.36;30;4.67;4.67;4.53
+EKTR4;ELEKTRO REDES S.A.;Utilidade Pública;Energia Elétrica;3.34;1.55;1.32;27.08;5.72;5.72;4.87
+ELET3;CENTRAIS ELET BRAS S.A. - ELETROBRAS;Utilidade Pública;Energia Elétrica;2.39;0.85;0.41;41;2.07;2.07;1.0
+ELET5;CENTRAIS ELET BRAS S.A. - ELETROBRAS;Utilidade Pública;Energia Elétrica;3.12;1.63;2.03;64.5;2.53;2.53;3.15
+ELET6;CENTRAIS ELET BRAS S.A. - ELETROBRAS;Utilidade Pública;Energia Elétrica;2.62;1.45;1.63;39.7;3.65;3.65;4.11
+EMAE3;EMAE - EMPRESA METROP.AGUAS ENERGIA S.A.;Utilidade Pública;Energia Elétrica;7.35;0.93;0.0;26.01;3.58;3.58;0.0
+EMAE4;EMAE - EMPRESA METROP.AGUAS ENERGIA S.A.;Utilidade Pública;Energia Elétrica;8.08;1.24;0.3;35;3.54;3.54;0.86
+EMBR3;EMBRAER S.A.;Bens Industriais;Material Aeronáutico e de Defesa;0;0.15;0.16;12.05;1.24;1.24;1.33
+ENAT3;ENAUTA PARTICIPAÇÕES S.A.;Petróleo. Gás e Biocombustíveis;Exploração. Refino e Distribuição;0.19;0.71;0.15;20.25;3.51;3.51;0.74
+ENBR3;EDP - ENERGIAS DO BRASIL S.A.;Utilidade Pública;Energia Elétrica;1.0;0.67;0.68;20.47;3.27;3.27;3.32
+ENEV3;ENEVA S.A;Utilidade Pública;Energia Elétrica;0.0;0.0;0.0;14.37;0.0;0.0;0.0
+ENGI3;ENERGISA S.A.;Utilidade Pública;Energia Elétrica;0.35;0.17;0.15;13.36;1.27;1.27;1.12
+ENGI4;ENERGISA S.A.;Utilidade Pública;Energia Elétrica;0.35;0.18;0.15;7.35;2.45;2.45;2.04
+ENMT3;ENERGISA MATO GROSSO-DISTRIBUIDORA DE ENERGIA S/A;Utilidade Pública;Energia Elétrica;5.49;0.89;0.0;83.58;1.06;1.06;0.0
+ENMT4;ENERGISA MATO GROSSO-DISTRIBUIDORA DE ENERGIA S/A;Utilidade Pública;Energia Elétrica;4.92;0.92;0.17;83.59;1.1;1.1;0.2
+EQMA3B;EQUATORIAL MARANHÃO DISTRIBUIDORA DE ENERGIA S.A.;Utilidade Pública;Energia Elétrica;2.56;0.55;0.0;38.1;1.44;1.44;0.0
+EQPA3;EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A.;Utilidade Pública;Energia Elétrica;0.41;0.09;0.03;5;1.8;1.8;0.6
+EQPA5;EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A.;Utilidade Pública;Energia Elétrica;0.41;0.09;0.05;6.7;1.34;1.34;0.75
+EQPA6;EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A.;Utilidade Pública;Energia Elétrica;0.41;0.1;0.07;10.69;0.94;0.94;0.65
+EQPA7;EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A.;Utilidade Pública;Energia Elétrica;0.41;0.09;0.04;6.62;1.36;1.36;0.6
+EQTL3;EQUATORIAL ENERGIA S.A.;Utilidade Pública;Energia Elétrica;0.72;0.32;0.22;24.16;1.32;1.32;0.91
+ESPA3;MPM CORPÓREOS S.A.;Consumo Cíclico;Produtos Diversos;0.14;0.01;0.0;2.56;0.39;0.39;0.0
+ESTR3;MANUFATURA DE BRINQUEDOS ESTRELA S.A.;Consumo Cíclico;Brinquedos e Jogos;0;0.0;0.0;40;0.0;0.0;0.0
+ESTR4;MANUFATURA DE BRINQUEDOS ESTRELA S.A.;Consumo Cíclico;Brinquedos e Jogos;0;0.0;0.0;53;0.0;0.0;0.0
+ETER3;ETERNIT S.A.;Bens Industriais;Produtos para Construção;0.24;0.29;0.12;11.02;2.63;2.63;1.09
+EUCA3;EUCATEX S.A. INDUSTRIA E COMERCIO;Materiais Básicos;Madeira;0.63;0.11;0.05;15;0.73;0.73;0.33
+EUCA4;EUCATEX S.A. INDUSTRIA E COMERCIO;Materiais Básicos;Madeira;0.88;0.16;0.06;8.71;1.84;1.84;0.69
+EVEN3;EVEN CONSTRUTORA E INCORPORADORA S.A.;Consumo Cíclico;Incorporações;0.83;0.25;0.2;4.68;5.34;5.34;4.27
+EZTC3;EZ TEC EMPREEND. E PARTICIPACOES S.A.;Consumo Cíclico;Incorporações;0.85;0.87;0.66;15.08;5.77;5.77;4.38
+FESA3;CIA FERRO LIGAS DA BAHIA - FERBASA;Materiais Básicos;Siderurgia;0.76;0.7;0.78;61.99;1.13;1.13;1.26
+FESA4;CIA FERRO LIGAS DA BAHIA - FERBASA;Materiais Básicos;Siderurgia;0.84;0.77;0.86;55.4;1.39;1.39;1.55
+FHER3;FERTILIZANTES HERINGER S.A.;Materiais Básicos;Fertilizantes e Defensivos;0;0;0.0;15.85;0.0;0.0;0.0
+FLRY3;FLEURY S.A.;Saúde;Serv.Méd.Hospit..Análises e Diagnósticos;1.05;0.74;0.85;15.16;4.88;4.88;5.61
+FRAS3;FRAS-LE S.A.;Bens Industriais;Material Rodoviário;0.3;0.17;0.16;10.45;1.63;1.63;1.53
+FRIO3;METALFRIO SOLUTIONS S.A.;Bens Industriais;Máq. e Equip. Industriais;0;0.0;0.0;41.5;0.0;0.0;0.0
+FRTA3;POMIFRUTAS S/A;Consumo não Cíclico;Agricultura;0;0.0;0.0;3.1;0.0;0.0;0.0
+GEPA3;RIO PARANAPANEMA ENERGIA S.A.;Utilidade Pública;Energia Elétrica;2.94;3.43;3.39;27.37;12.53;12.53;12.39
+GEPA4;RIO PARANAPANEMA ENERGIA S.A.;Utilidade Pública;Energia Elétrica;2.94;3.51;3.39;25.27;13.89;13.89;13.42
+GFSA3;GAFISA S.A.;Consumo Cíclico;Incorporações;0;0.09;0.0;1.34;6.72;6.72;0.0
+GGBR4;GERDAU S.A.;Materiais Básicos;Siderurgia;3.07;0.51;0.27;27.46;1.86;1.86;0.98
+GGPS3;GPS PARTICIPACOES E EMPREENDIMENTOS S.A.;Bens Industriais;Serviços Diversos;0.19;0.02;0.0;12.7;0.16;0.16;0.0
+GOAU3;METALURGICA GERDAU S.A.;Materiais Básicos;Siderurgia;2.32;0.4;0.19;10.73;3.73;3.73;1.77
+GOAU4;METALURGICA GERDAU S.A.;Materiais Básicos;Siderurgia;2.32;0.4;0.19;11.79;3.39;3.39;1.61
+GOLL4;GOL LINHAS AEREAS INTELIGENTES S.A.;Bens Industriais;Transporte Aéreo;0;0;0.0;11.62;0.0;0.0;0.0
+GPAR3;CIA CELG DE PARTICIPACOES - CELGPAR;Utilidade Pública;Energia Elétrica;0.05;0.1;0.0;29.5;0.34;0.34;0.0
+GPIV33;GP INVESTMENTS. LTD.;Financeiro;Gestão de Recursos e Investimentos;0;0;0.0;4.67;0.0;0.0;0.0
+GRND3;GRENDENE S.A.;Consumo Cíclico;Calçados;0.87;0.54;0.49;8.11;6.66;6.66;6.04
+GSHP3;GENERAL SHOPPING E OUTLETS DO BRASIL S.A.;Financeiro;Exploração de Imóveis;0;11.36;0.0;25.2;45.08;45.08;0.0
+GUAR3;GUARARAPES CONFECCOES S.A.;Consumo Cíclico;Tecidos. Vestuário e Calçados;0.47;0.96;0.69;7.62;12.6;12.6;9.06
+HAGA3;HAGA S.A. INDUSTRIA E COMERCIO;Bens Industriais;Produtos para Construção;0;0;0.0;3.05;0.0;0.0;0.0
+HAGA4;HAGA S.A. INDUSTRIA E COMERCIO;Bens Industriais;Produtos para Construção;0;0;0.0;1.38;0.0;0.0;0.0
+HBOR3;HELBOR EMPREENDIMENTOS S.A.;Consumo Cíclico;Incorporações;0.05;0.29;0.18;2.75;10.55;10.55;6.55
+HBTS5;CIA HABITASUL DE PARTICIPACOES;Financeiro;Exploração de Imóveis;0.16;0.51;0.35;44.89;1.14;1.14;0.78
+HETA3;HERCULES S.A. FABRICA DE TALHERES;Consumo Cíclico;Utensílios Domésticos;0;0.0;0.0;96;0.0;0.0;0.0
+HETA4;HERCULES S.A. FABRICA DE TALHERES;Consumo Cíclico;Utensílios Domésticos;0;0.0;0.0;5.96;0.0;0.0;0.0
+HOOT4;HOTEIS OTHON S.A.;Consumo Cíclico;Hotelaria;0;0.0;0.0;2.22;0.0;0.0;0.0
+HYPE3;HYPERA S.A.;Saúde;Medicamentos e Outros Produtos;1.23;0.67;0.58;38.9;1.72;1.72;1.49
+IGBR3;IGB ELETRÔNICA S/A;Financeiro;Exploração de Imóveis;0.0;0.0;0.0;32;0.0;0.0;0.0
+INEP3;INEPAR S.A. INDUSTRIA E CONSTRUCOES;Bens Industriais;Máq. e Equip. Industriais;0.0;0.0;0.0;0.87;0.0;0.0;0.0
+INEP4;INEPAR S.A. INDUSTRIA E CONSTRUCOES;Bens Industriais;Máq. e Equip. Industriais;0.0;0.0;0.0;0.88;0.0;0.0;0.0
+INTB3;INTELBRAS S.A. IND DE TELEC ELETRONICA BRASILEIRA;Tecnologia da Informação;Computadores e Equipamentos;0.16;0.02;0.0;25.26;0.08;0.08;0.0
+IRBR3;IRB - BRASIL RESSEGUROS S.A.;Financeiro;Seguradoras;0;0.1;0.0;2.77;3.61;3.61;0.0
+ITSA3;ITAUSA S.A.;Financeiro;Bancos;0.43;0.44;0.43;9.34;4.71;4.71;4.6
+ITSA4;ITAUSA S.A.;Financeiro;Bancos;0.43;0.47;0.43;8.89;5.29;5.29;4.84
+ITUB3;ITAU UNIBANCO HOLDING S.A.;Financeiro;Bancos;0.91;0.97;0.95;20.69;4.69;4.69;4.59
+ITUB4;ITAU UNIBANCO HOLDING S.A.;Financeiro;Bancos;0.91;0.97;0.95;24.1;4.02;4.02;3.94
+JALL3;JALLES MACHADO S.A.;Consumo não Cíclico;Açucar e Alcool;0.29;0.03;0.0;9.72;0.31;0.31;0.0
+JBSS3;JBS S.A.;Consumo não Cíclico;Carnes e Derivados;4.02;0.53;0.07;34.78;1.52;1.52;0.2
+JFEN3;JOAO FORTES ENGENHARIA S.A.;Consumo Cíclico;Incorporações;0;0.03;0.0;0.8;3.75;3.75;0.0
+JHSF3;JHSF PARTICIPACOES S.A.;Consumo Cíclico;Incorporações;0.6;0.13;0.09;6.58;1.98;1.98;1.37
+JOPA3;JOSAPAR-JOAQUIM OLIVEIRA S.A. - PARTICIP;Consumo não Cíclico;Alimentos Diversos;0.86;0.72;0.61;22.6;3.19;3.19;2.7
+JOPA4;JOSAPAR-JOAQUIM OLIVEIRA S.A. - PARTICIP;Consumo não Cíclico;Alimentos Diversos;0.94;0.72;0.67;36;2.0;2.0;1.86
+KEPL3;KEPLER WEBER S.A.;Bens Industriais;Máq. e Equip. Industriais;10.51;1.4;0.28;17.4;8.05;8.05;1.61
+KLBN11;KLABIN S.A.;Materiais Básicos;Papel e Celulose;0.37;0.46;0.51;21.36;2.15;2.15;2.39
+KLBN3;KLABIN S.A.;Materiais Básicos;Papel e Celulose;0.07;0.11;0.11;4.86;2.26;2.26;2.26
+KLBN4;KLABIN S.A.;Materiais Básicos;Papel e Celulose;0.07;0.15;0.15;4.17;3.6;3.6;3.6
+LCAM3;CIA LOCAÇÃO DAS AMÉRICAS;Consumo Cíclico;Aluguel de carros;0.43;0.24;0.17;23.14;1.04;1.04;0.73
+LEVE3;MAHLE-METAL LEVE S.A.;Consumo Cíclico;Automóveis e Motocicletas;0.93;0.97;0.81;24.36;3.98;3.98;3.33
+LIGT3;LIGHT S.A.;Utilidade Pública;Energia Elétrica;0.44;0.64;0.31;7.63;8.39;8.39;4.06
+LIPR3;ELETROBRÁS PARTICIPAÇÕES S.A. - ELETROPAR;Utilidade Pública;Energia Elétrica;1.11;1.16;0.42;66.1;1.75;1.75;0.64
+LJQQ3;LOJAS QUERO-QUERO S/A;Consumo Cíclico;Produtos Diversos;0.14;0.02;0.0;7.7;0.26;0.26;0.0
+LLIS3;RESTOQUE COMÉRCIO E CONFECÇÕES DE ROUPAS S.A.;Consumo Cíclico;Tecidos. Vestuário e Calçados;0;0.28;0.03;1.84;15.22;15.22;1.63
+LOGG3;LOG COMMERCIAL PROPERTIES;Financeiro;Exploração de Imóveis;0.33;0.07;0.0;20.48;0.34;0.34;0.0
+LOGN3;LOG-IN LOGISTICA INTERMODAL S.A.;Bens Industriais;Transporte Hidroviário;0;0.0;0.0;33.64;0.0;0.0;0.0
+LPSB3;LPS BRASIL - CONSULTORIA DE IMOVEIS S.A.;Financeiro;Intermediação Imobiliária;0;0.09;0.0;2.72;3.31;3.31;0.0
+LREN3;LOJAS RENNER S.A.;Consumo Cíclico;Tecidos. Vestuário e Calçados;0.41;0.91;0.62;24.08;3.78;3.78;2.57
+LUPA3;LUPATECH S.A.;Petróleo. Gás e Biocombustíveis;Equipamentos e Serviços;0;0.0;0.0;4.03;0.0;0.0;0.0
+LUXM4;TREVISA INVESTIMENTOS S.A.;Bens Industriais;Transporte Hidroviário;1.61;1.35;0.96;83;1.63;1.63;1.16
+LWSA3;LOCAWEB SERVIÇOS DE INTERNET S.A.;Tecnologia da Informação;Programas e Serviços;0.0;0.0;0.0;6.31;0.0;0.0;0.0
+MAPT3;CEMEPE INVESTIMENTOS S.A.;Outros;Outros;0;0.0;0.0;37;0.0;0.0;0.0
+MAPT4;CEMEPE INVESTIMENTOS S.A.;Outros;Outros;0;0.0;0.0;14.17;0.0;0.0;0.0
+MDIA3;M.DIAS BRANCO S.A. IND COM DE ALIMENTOS;Consumo não Cíclico;Alimentos Diversos;0.2;0.5;0.46;25.85;1.93;1.93;1.78
+MEAL3;INTERNATIONAL MEAL COMPANY ALIMENTACAO S.A.;Consumo Cíclico;Restaurante e Similares;0;0.0;0.0;1.79;0.0;0.0;0.0
+MELK3;MELNICK DESENVOLVIMENTO IMOBILIÁRIO S.A.;Consumo Cíclico;Incorporações;0.49;0.05;0.0;3.53;1.42;1.42;0.0
+MERC3;MERCANTIL BRASIL FINANC S.A. C.F.I.;Financeiro;Soc. Crédito e Financiamento;0;0.2;0.14;24.1;0.83;0.83;0.58
+MERC4;MERCANTIL BRASIL FINANC S.A. C.F.I.;Financeiro;Soc. Crédito e Financiamento;0.52;0.46;0.49;9;5.11;5.11;5.44
+MGEL4;MANGELS INDUSTRIAL S.A.;Materiais Básicos;Artefatos de Ferro e Aço;0;0.0;0.0;15.11;0.0;0.0;0.0
+MGLU3;MAGAZINE LUIZA S.A.;Consumo Cíclico;Eletrodomésticos;0.02;0.08;0.02;2.9;2.76;2.76;0.69
+MILS3;MILLS ESTRUTURAS E SERVIÇOS DE ENGENHARIA S.A.;Bens Industriais;Serviços Diversos;0.19;0.11;0.0;6.73;1.63;1.63;0.0
+MMXM3;MMX MINERACAO E METALICOS S.A.;Materiais Básicos;Minerais Metálicos;0;0.0;0.0;14;0.0;0.0;0.0
+MNDL3;MUNDIAL S.A. - PRODUTOS DE CONSUMO;Consumo Cíclico;Acessórios;0;0.0;0.0;24.4;0.0;0.0;0.0
+MNPR3;MINUPAR PARTICIPACOES S.A.;Consumo não Cíclico;Carnes e Derivados;0;0.0;0.0;7.2;0.0;0.0;0.0
+MOAR3;MONTEIRO ARANHA S.A.;Financeiro;Holdings Diversificadas;52.24;13.3;9.14;475;2.8;2.8;1.92
+MODL11;BANCO MODAL S.A;Financeiro;Bancos;0.21;0.02;0.0;7.91;0.25;0.25;0.0
+MODL3;BANCO MODAL S.A;Financeiro;Bancos;0.03;0.0;0.0;2.97;0.0;0.0;0.0
+MODL4;BANCO MODAL S.A;Financeiro;Bancos;0.03;0.0;0.0;2.38;0.0;0.0;0.0
+MOVI3;MOVIDA PARTICIPACOES SA;Consumo Cíclico;Aluguel de carros;0.52;0.13;0.0;15.51;0.84;0.84;0.0
+MRFG3;MARFRIG GLOBAL FOODS S.A.;Consumo não Cíclico;Carnes e Derivados;4.1;0.41;0.0;15.26;2.69;2.69;0.0
+MRSA3B;MRS LOGISTICA S.A.;Bens Industriais;Transporte Ferroviário;0.29;0.51;0.57;38.7;1.32;1.32;1.47
+MRSA5B;MRS LOGISTICA S.A.;Bens Industriais;Transporte Ferroviário;0.32;0.35;0.16;33;1.06;1.06;0.48
+MRSA6B;MRS LOGISTICA S.A.;Bens Industriais;Transporte Ferroviário;0.32;0.43;0.44;30.97;1.39;1.39;1.42
+MRVE3;MRV ENGENHARIA E PARTICIPACOES S.A.;Consumo Cíclico;Incorporações;0.64;0.62;0.38;8.44;7.35;7.35;4.5
+MSPA3;CIA MELHORAMENTOS DE SAO PAULO;Materiais Básicos;Papel e Celulose;0;1.24;0.0;50.01;2.48;2.48;0.0
+MSPA4;CIA MELHORAMENTOS DE SAO PAULO;Materiais Básicos;Papel e Celulose;0;1.35;0.0;46.5;2.9;2.9;0.0
+MTIG4;METALGRAFICA IGUACU S.A.;Materiais Básicos;Embalagens;0;0.04;0.0;40;0.1;0.1;0.0
+MTRE3;MITRE REALTY EMPREENDIMENTOS E PARTICIPAÇÕES S.A.;Consumo Cíclico;Incorporações;0.56;0.06;0.0;4.84;1.24;1.24;0.0
+MTSA3;METISA METALURGICA TIMBOENSE S.A.;Bens Industriais;Máq. e Equip. Construção e Agrícolas;2.05;0.57;0.5;70;0.81;0.81;0.71
+MTSA4;METISA METALURGICA TIMBOENSE S.A.;Bens Industriais;Máq. e Equip. Construção e Agrícolas;2.26;0.72;0.6;38.5;1.87;1.87;1.56
+MULT3;MULTIPLAN - EMPREEND IMOBILIARIOS S.A.;Financeiro;Exploração de Imóveis;0.5;0.52;0.5;22.59;2.3;2.3;2.21
+MWET3;WETZEL S.A.;Bens Industriais;Material Rodoviário;0;0.0;0.0;16.99;0.0;0.0;0.0
+MWET4;WETZEL S.A.;Bens Industriais;Material Rodoviário;0;0.0;0.0;10;0.0;0.0;0.0
+MYPK3;IOCHPE MAXION S.A.;Consumo Cíclico;Automóveis e Motocicletas;1.01;0.54;0.44;16.11;3.35;3.35;2.73
+NEOE3;NEOENERGIA S.A.;Utilidade Pública;Energia Elétrica;0.36;0.12;0.0;16.99;0.71;0.71;0.0
+NGRD3;NEOGRID PARTICIPACOES S.A.;Tecnologia da Informação;Programas e Serviços;0.01;0.0;0.0;2.1;0.0;0.0;0.0
+NORD3;NORDON INDUSTRIAS METALURGICAS S.A.;Bens Industriais;Máq. e Equip. Industriais;0;0.0;0.0;9.99;0.0;0.0;0.0
+NTCO3;NATURA &CO HOLDING S.A.;Consumo não Cíclico;Produtos de Uso Pessoal;0;0.0;0.0;15.65;0.0;0.0;0.0
+NUTR3;NUTRIPLANT INDUSTRIA E COMERCIO S.A.;Materiais Básicos;Fertilizantes e Defensivos;0;0.0;0.0;250;0.0;0.0;0.0
+ODER4;CONSERVAS ODERICH S.A.;Consumo não Cíclico;Alimentos Diversos;2.94;0.47;0.09;190;0.25;0.25;0.05
+ODPV3;ODONTOPREV S.A.;Saúde;Serv.Méd.Hospit..Análises e Diagnósticos;0.66;0.42;0.36;9.65;4.35;4.35;3.73
+OFSA3;OURO FINO SAUDE ANIMAL PARTICIPACOES S.A.;Saúde;Medicamentos e Outros Produtos;0.47;0.2;0.19;21.45;0.93;0.93;0.89
+OIBR3;OI S.A.;Comunicações;Telecomunicações;0;0.2;0.0;0.55;36.36;36.36;0.0
+OIBR4;OI S.A.;Comunicações;Telecomunicações;0;0.22;0.0;1.08;20.37;20.37;0.0
+OSXB3;OSX BRASIL S.A.;Petróleo. Gás e Biocombustíveis;Equipamentos e Serviços;0;0.0;0.0;6.28;0.0;0.0;0.0
+PARD3;INSTITUTO HERMES PARDINI S.A.;Saúde;Serv.Méd.Hospit..Análises e Diagnósticos;0.29;0.17;0.11;18.54;0.92;0.92;0.59
+PATI3;PANATLANTICA S.A.;Materiais Básicos;Artefatos de Ferro e Aço;2.37;0.51;0.27;74.38;0.69;0.69;0.36
+PATI4;PANATLANTICA S.A.;Materiais Básicos;Artefatos de Ferro e Aço;2.37;1.45;1.16;60.2;2.41;2.41;1.93
+PCAR3;CIA BRASILEIRA DE DISTRIBUICAO;Consumo não Cíclico;Alimentos;2.18;0.87;0.86;19.65;4.43;4.43;4.38
+PDGR3;PDG REALTY S.A. EMPREEND E PARTICIPACOES;Consumo Cíclico;Incorporações;0;0.01;0.0;1.18;0.85;0.85;0.0
+PEAB3;CIA PARTICIPACOES ALIANCA DA BAHIA;Financeiro;Holdings Diversificadas;12.78;6.65;2.69;61;10.9;10.9;4.41
+PEAB4;CIA PARTICIPACOES ALIANCA DA BAHIA;Financeiro;Holdings Diversificadas;12.43;7.02;2.96;71.01;9.89;9.89;4.17
+PETR3;PETROLEO BRASILEIRO S.A. PETROBRAS;Petróleo. Gás e Biocombustíveis;Exploração. Refino e Distribuição;5.65;0.81;0.29;32.91;2.46;2.46;0.88
+PETR4;PETROLEO BRASILEIRO S.A. PETROBRAS;Petróleo. Gás e Biocombustíveis;Exploração. Refino e Distribuição;5.65;0.9;0.25;29.65;3.04;3.04;0.84
+PETZ3;PET CENTER COMERCIO E PARTICIPACOES S.A.;Consumo Cíclico;Produtos Diversos;0.04;0.01;0.0;11.15;0.09;0.09;0.0
+PFRM3;PROFARMA DISTRIB PROD FARMACEUTICOS S.A.;Saúde;Medicamentos e Outros Produtos;0.27;0.08;0.0;3.49;2.29;2.29;0.0
+PINE4;BCO PINE S.A.;Financeiro;Bancos;0;0.25;0.2;1.19;21.01;21.01;16.81
+PLAS3;PLASCAR PARTICIPACOES INDUSTRIAIS S.A.;Consumo Cíclico;Automóveis e Motocicletas;0;0.0;0.0;7.77;0.0;0.0;0.0
+PLPL3;PLANO & PLANO DESENVOLVIMENTO IMOBILIÁRIO S.A.;Consumo Cíclico;Incorporações;0.2;0.02;0.0;2.33;0.86;0.86;0.0
+PMAM3;PARANAPANEMA S.A.;Materiais Básicos;Artefatos de Cobre;0;0.15;0.0;6.37;2.35;2.35;0.0
+PNVL3;DIMED S.A. DISTRIBUIDORA DE MEDICAMENTOS;Saúde;Medicamentos e Outros Produtos;0.29;0.58;0.19;10.28;5.64;5.64;1.85
+POMO3;MARCOPOLO S.A.;Bens Industriais;Material Rodoviário;0.11;0.1;0.11;2.26;4.42;4.42;4.87
+POMO4;MARCOPOLO S.A.;Bens Industriais;Material Rodoviário;0.11;0.12;0.11;2.68;4.48;4.48;4.1
+POSI3;POSITIVO TECNOLOGIA S.A.;Tecnologia da Informação;Computadores e Equipamentos;0.34;0.06;0.03;6.89;0.87;0.87;0.44
+PPLA11;PPLA PARTICIPATIONS LTD.;Financeiro;Gestão de Recursos e Investimentos;0;2.25;0.0;5.41;41.59;41.59;0.0
+PRIO3;PETRO RIO S.A.;Petróleo. Gás e Biocombustíveis;Exploração. Refino e Distribuição;0.0;0.0;0.0;27.1;0.0;0.0;0.0
+PRNR3;PRINER SERVIÇOS INDUSTRIAIS S.A.;Bens Industriais;Serviços Diversos;0.05;0.01;0.0;6.19;0.16;0.16;0.0
+PSSA3;PORTO SEGURO S.A.;Financeiro;Seguradoras;2.61;1.9;1.62;18.73;10.14;10.14;8.65
+PTBL3;PBG S/A;Bens Industriais;Produtos para Construção;1.13;0.22;0.11;7.75;2.84;2.84;1.42
+PTNT3;PETTENATI S.A. INDUSTRIA TEXTIL;Consumo Cíclico;Fios e Tecidos;0.2;0.12;0.12;13.1;0.92;0.92;0.92
+PTNT4;PETTENATI S.A. INDUSTRIA TEXTIL;Consumo Cíclico;Fios e Tecidos;0.2;0.12;0.12;5.55;2.16;2.16;2.16
+QUAL3;QUALICORP CONSULTORIA E CORRETORA DE SEGUROS S.A.;Saúde;Serv.Méd.Hospit..Análises e Diagnósticos;2.19;0.93;1.02;12.2;7.62;7.62;8.36
+RADL3;RAIA DROGASIL S.A.;Saúde;Medicamentos e Outros Produtos;0.19;0.17;0.13;20.8;0.82;0.82;0.62
+RAIL3;RUMO S.A.;Bens Industriais;Transporte Ferroviário;0;0.0;0.0;17.46;0.0;0.0;0.0
+RANI3;IRANI PAPEL E EMBALAGEM S.A.;Materiais Básicos;Papel e Celulose;0.35;0.1;0.08;7.04;1.42;1.42;1.14
+RAPT3;RANDON S.A. IMPLEMENTOS E PARTICIPACOES;Bens Industriais;Material Rodoviário;0.65;0.21;0.2;8.61;2.44;2.44;2.32
+RAPT4;RANDON S.A. IMPLEMENTOS E PARTICIPACOES;Bens Industriais;Material Rodoviário;0.65;0.21;0.2;9.77;2.15;2.15;2.05
+RCSL3;RECRUSUL S.A.;Bens Industriais;Material Rodoviário;0;0.0;0.0;2.38;0.0;0.0;0.0
+RCSL4;RECRUSUL S.A.;Bens Industriais;Material Rodoviário;0;0.0;0.0;0.77;0.0;0.0;0.0
+RDNI3;RNI NEGÓCIOS IMOBILIÁRIOS S.A.;Consumo Cíclico;Incorporações;0.01;0.26;0.01;7.84;3.32;3.32;0.13
+RDOR3;Rede DOr São Luiz S.A.;Saúde;Serv.Méd.Hospit..Análises e Diagnósticos;1.38;0.14;0.0;33.2;0.42;0.42;0.0
+REDE3;REDE ENERGIA PARTICIPAÇÕES S.A.;Utilidade Pública;Energia Elétrica;0.98;0.16;0.02;5.9;2.71;2.71;0.34
+RENT3;LOCALIZA RENT A CAR S.A.;Consumo Cíclico;Aluguel de carros;0.44;0.33;0.31;51.77;0.64;0.64;0.6
+RNEW11;RENOVA ENERGIA S.A.;Utilidade Pública;Energia Elétrica;0;0.03;0.0;4.56;0.66;0.66;0.0
+RNEW3;RENOVA ENERGIA S.A.;Utilidade Pública;Energia Elétrica;0;0.03;0.0;1.73;1.73;1.73;0.0
+RNEW4;RENOVA ENERGIA S.A.;Utilidade Pública;Energia Elétrica;0;0.0;0.0;1.47;0.0;0.0;0.0
+ROMI3;INDUSTRIAS ROMI S.A.;Bens Industriais;Máq. e Equip. Industriais;0.78;0.47;0.05;13.1;3.59;3.59;0.38
+RPAD3;ALFA HOLDINGS S.A.;Financeiro;Bancos;0;0.0;0.0;6.48;0.0;0.0;0.0
+RPAD5;ALFA HOLDINGS S.A.;Financeiro;Bancos;0.55;0.43;0.43;7.8;5.51;5.51;5.51
+RPAD6;ALFA HOLDINGS S.A.;Financeiro;Bancos;0;0.0;0.0;4.75;0.0;0.0;0.0
+RPMG3;REFINARIA DE PETROLEOS MANGUINHOS S.A.;Petróleo. Gás e Biocombustíveis;Exploração. Refino e Distribuição;0;0.0;0.0;2.29;0.0;0.0;0.0
+RSID3;ROSSI RESIDENCIAL S.A.;Consumo Cíclico;Incorporações;0;0.03;0.0;2.11;1.42;1.42;0.0
+RSUL4;METALURGICA RIOSULENSE S.A.;Bens Industriais;Material Rodoviário;0.0;0.0;0.0;69.67;0.0;0.0;0.0
+SANB11;BCO SANTANDER (BRASIL) S.A.;Financeiro;Bancos;2.84;1.4;1.35;31.1;4.5;4.5;4.34
+SANB3;BCO SANTANDER (BRASIL) S.A.;Financeiro;Bancos;1.35;0.62;0.6;14.93;4.15;4.15;4.02
+SANB4;BCO SANTANDER (BRASIL) S.A.;Financeiro;Bancos;1.49;0.69;0.65;16.47;4.19;4.19;3.95
+SAPR11;CIA SANEAMENTO DO PARANA - SANEPAR;Utilidade Pública;água e Saneamento;0.99;0.46;0.0;19.34;2.38;2.38;0.0
+SAPR3;CIA SANEAMENTO DO PARANA - SANEPAR;Utilidade Pública;água e Saneamento;0.18;0.2;0.19;3.79;5.28;5.28;5.01
+SAPR4;CIA SANEAMENTO DO PARANA - SANEPAR;Utilidade Pública;água e Saneamento;0.2;0.27;0.23;3.87;6.98;6.98;5.94
+SBSP3;CIA SANEAMENTO BASICO EST SAO PAULO;Utilidade Pública;água e Saneamento;0.4;1.14;1.09;43.05;2.65;2.65;2.53
+SCAR3;SAO CARLOS EMPREEND E PARTICIPACOES S.A.;Financeiro;Exploração de Imóveis;0.37;0.52;0.4;29.69;1.75;1.75;1.35
+SEER3;SER EDUCACIONAL S.A.;Consumo Cíclico;Serviços Educacionais;0.42;0.43;0.28;7.18;5.99;5.99;3.9
+SGPS3;SPRINGS GLOBAL PARTICIPACOES S.A.;Consumo Cíclico;Fios e Tecidos;0;0.0;0.0;2.56;0.0;0.0;0.0
+SHOW3;T4F ENTRETENIMENTO S.A.;Consumo Cíclico;Produção de Eventos e Shows;0;0.07;0.01;3.36;2.08;2.08;0.3
+SHUL3;SCHULZ S.A.;Bens Industriais;Motores . Compressores e Outros;0.25;0.08;0.05;112.01;0.07;0.07;0.04
+SHUL4;SCHULZ S.A.;Bens Industriais;Motores . Compressores e Outros;0.28;0.16;0.15;4.48;3.57;3.57;3.35
+SIMH3;SIMPAR S.A.;Financeiro;Holdings Diversificadas;0.45;0.04;0.0;10.92;0.37;0.37;0.0
+SLCE3;SLC AGRICOLA S.A.;Consumo não Cíclico;Agricultura;1.06;0.99;0.79;52.69;1.88;1.88;1.5
+SLED3;SARAIVA LIVREIROS S.A. - EM RECUPERAÇÃO JUDICIAL;Consumo Cíclico;Produtos Diversos;0.0;0.22;0.0;12;1.83;1.83;0.0
+SLED4;SARAIVA LIVREIROS S.A. - EM RECUPERAÇÃO JUDICIAL;Consumo Cíclico;Produtos Diversos;0.0;0.22;0.0;3.75;5.87;5.87;0.0
+SMTO3;SAO MARTINHO S.A.;Consumo não Cíclico;Açucar e Alcool;2.33;0.55;0.34;45.25;1.22;1.22;0.75
+SNSY3;SANSUY S.A. INDUSTRIA DE PLASTICOS;Materiais Básicos;Materiais Diversos;0;0.0;0.0;8.47;0.0;0.0;0.0
+SNSY5;SANSUY S.A. INDUSTRIA DE PLASTICOS;Materiais Básicos;Materiais Diversos;0;0.0;0.0;3.03;0.0;0.0;0.0
+SNSY6;SANSUY S.A. INDUSTRIA DE PLASTICOS;Materiais Básicos;Materiais Diversos;0;0.0;0.0;11.51;0.0;0.0;0.0
+SOND3;SONDOTECNICA ENGENHARIA SOLOS S.A.;Bens Industriais;Engenharia Consultiva;7.74;5.16;1.16;46.01;11.21;11.21;2.52
+SOND5;SONDOTECNICA ENGENHARIA SOLOS S.A.;Bens Industriais;Engenharia Consultiva;8.52;7.04;1.49;40;17.6;17.6;3.73
+SOND6;SONDOTECNICA ENGENHARIA SOLOS S.A.;Bens Industriais;Engenharia Consultiva;8.52;6.96;1.49;43;16.19;16.19;3.47
+SQIA3;SINQIA S.A.;Tecnologia da Informação;Programas e Serviços;0.02;0.06;0.02;17;0.35;0.35;0.12
+STBP3;SANTOS BRASIL PARTICIPACOES S.A.;Bens Industriais;Serviços de Apoio e Armazenagem;0.26;0.09;0.02;6.69;1.35;1.35;0.3
+SULA11;SUL AMERICA S.A.;Financeiro;Seguradoras;0.37;0.62;0.44;24.88;2.49;2.49;1.77
+SULA3;SUL AMERICA S.A.;Financeiro;Seguradoras;0.19;0.24;0.15;8.37;2.87;2.87;1.79
+SULA4;SUL AMERICA S.A.;Financeiro;Seguradoras;0.12;0.16;0.0;8.13;1.97;1.97;0.0
+SUZB3;SUZANO S.A.;Materiais Básicos;Papel e Celulose;0;0.19;0.14;51.69;0.37;0.37;0.27
+TAEE11;TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.;Utilidade Pública;Energia Elétrica;4.5;2.5;2.33;40.34;6.2;6.2;5.78
+TASA3;TAURUS ARMAS S.A.;Bens Industriais;Armas e Munições;0;0.01;0.0;18.39;0.05;0.05;0.0
+TASA4;TAURUS ARMAS S.A.;Bens Industriais;Armas e Munições;0;0.01;0.0;18.3;0.05;0.05;0.0
+TCNO3;TECNOSOLO ENGENHARIA S.A.;Bens Industriais;Engenharia Consultiva;0;0.0;0.0;1.43;0.0;0.0;0.0
+TCNO4;TECNOSOLO ENGENHARIA S.A.;Bens Industriais;Engenharia Consultiva;0;0.0;0.0;1.17;0.0;0.0;0.0
+TCSA3;TECNISA S.A.;Consumo Cíclico;Incorporações;0;0.24;0.0;2.13;11.27;11.27;0.0
+TECN3;TECHNOS S.A.;Consumo Cíclico;Acessórios;0;0.14;0.05;2.38;5.88;5.88;2.1
+TEKA3;TEKA-TECELAGEM KUEHNRICH S.A.;Consumo Cíclico;Fios e Tecidos;0;0.0;0.0;26.1;0.0;0.0;0.0
+TEKA4;TEKA-TECELAGEM KUEHNRICH S.A.;Consumo Cíclico;Fios e Tecidos;0;0.0;0.0;12.27;0.0;0.0;0.0
+TELB3;TELEC BRASILEIRAS S.A. TELEBRAS;Comunicações;Telecomunicações;0;0.0;0.0;31.5;0.0;0.0;0.0
+TELB4;TELEC BRASILEIRAS S.A. TELEBRAS;Comunicações;Telecomunicações;0;0.0;0.0;13.9;0.0;0.0;0.0
+TEND3;CONSTRUTORA TENDA S.A.;Consumo Cíclico;Incorporações;0.18;0.15;0.0;4.27;3.51;3.51;0.0
+TFCO4;TRACK & FIELD CO S.A.;Consumo Cíclico;Vestuário;0.15;0.02;0.0;9.33;0.21;0.21;0.0
+TGMA3;TEGMA GESTAO LOGISTICA S.A.;Bens Industriais;Transporte Rodoviário;0.79;0.66;0.57;14.65;4.51;4.51;3.89
+TKNO4;TEKNO S.A. - INDUSTRIA E COMERCIO;Materiais Básicos;Artefatos de Ferro e Aço;2.08;2.23;0.8;79.93;2.79;2.79;1.0
+TOTS3;TOTVS S.A.;Tecnologia da Informação;Programas e Serviços;0.31;0.39;0.31;26.23;1.49;1.49;1.18
+TPIS3;TPI - TRIUNFO PARTICIP. E INVEST. S.A.;Bens Industriais;Exploração de Rodovias;0.04;0.14;0.12;1.36;10.29;10.29;8.82
+TRIS3;TRISUL S.A.;Consumo Cíclico;Incorporações;0.24;0.11;0.1;3.4;3.24;3.24;2.94
+TRPL3;CTEEP - CIA TRANSMISSÃO ENERGIA ELÉTRICA PAULISTA;Utilidade Pública;Energia Elétrica;3.59;1.78;1.46;30;5.93;5.93;4.87
+TRPL4;CTEEP - CIA TRANSMISSÃO ENERGIA ELÉTRICA PAULISTA;Utilidade Pública;Energia Elétrica;3.59;1.77;1.46;22.94;7.72;7.72;6.36
+TUPY3;TUPY S.A.;Bens Industriais;Material Rodoviário;0.43;0.63;0.61;23.08;2.73;2.73;2.64
+TXRX3;TEXTIL RENAUXVIEW S.A.;Consumo Cíclico;Fios e Tecidos;0;0.0;0.0;26.96;0.0;0.0;0.0
+TXRX4;TEXTIL RENAUXVIEW S.A.;Consumo Cíclico;Fios e Tecidos;0;0.0;0.0;5.05;0.0;0.0;0.0
+UCAS3;UNICASA INDÚSTRIA DE MÓVEIS S.A.;Consumo Cíclico;Móveis;0.21;0.23;0.09;3;7.67;7.67;3.0
+UGPA3;ULTRAPAR PARTICIPACOES S.A.;Petróleo. Gás e Biocombustíveis;Exploração. Refino e Distribuição;0.64;0.87;0.83;12.75;6.82;6.82;6.51
+UNIP3;UNIPAR CARBOCLORO S.A.;Materiais Básicos;Químicos Diversos;11.18;1.84;0.23;86.99;2.12;2.12;0.26
+UNIP5;UNIPAR CARBOCLORO S.A.;Materiais Básicos;Químicos Diversos;12.3;2.15;0.41;99.12;2.17;2.17;0.41
+UNIP6;UNIPAR CARBOCLORO S.A.;Materiais Básicos;Químicos Diversos;12.3;2.03;0.25;97.18;2.09;2.09;0.26
+USIM3;USINAS SID DE MINAS GERAIS S.A.-USIMINAS;Materiais Básicos;Siderurgia;1.3;0.16;0.01;9.86;1.62;1.62;0.1
+USIM5;USINAS SID DE MINAS GERAIS S.A.-USIMINAS;Materiais Básicos;Siderurgia;1.43;0.19;0.05;10.11;1.88;1.88;0.49
+USIM6;USINAS SID DE MINAS GERAIS S.A.-USIMINAS;Materiais Básicos;Siderurgia;1.43;0.17;0.02;14.5;1.17;1.17;0.14
+VALE3;VALE S.A.;Materiais Básicos;Minerais Metálicos;12.46;2.66;1.79;84.56;3.15;3.15;2.12
+VAMO3;VAMOS LOCAÇÃO DE CAMINHÕES. MÁQUINAS E EQUIP. S.A.;Consumo Cíclico;Aluguel de carros;0.39;0.04;0.0;13.65;0.29;0.29;0.0
+VIVA3;VIVARA PARTICIPAÇOES S.A;Consumo Cíclico;Acessórios;0.33;0.06;0.0;21.24;0.28;0.28;0.0
+VIVR3;VIVER INCORPORADORA E CONSTRUTORA S.A.;Consumo Cíclico;Incorporações;0;0.0;0.0;0.81;0.0;0.0;0.0
+VIVT3;TELEFÔNICA BRASIL S.A;Comunicações;Telecomunicações;3.46;3.1;2.85;46.8;6.62;6.62;6.09
+VLID3;VALID SOLUÇÕES S.A.;Bens Industriais;Serviços Diversos;0;0.7;0.67;9.88;7.09;7.09;6.78
+VULC3;VULCABRAS S.A.;Consumo Cíclico;Calçados;0.7;0.07;0.0;10.76;0.65;0.65;0.0
+WEGE3;WEG S.A.;Bens Industriais;Motores . Compressores e Outros;0.4;0.39;0.33;24;1.62;1.62;1.38
+WHRL3;WHIRLPOOL S.A.;Consumo Cíclico;Eletrodomésticos;0.59;0.53;0.43;5;10.6;10.6;8.6
+WHRL4;WHIRLPOOL S.A.;Consumo Cíclico;Eletrodomésticos;0.65;0.58;0.47;5.08;11.42;11.42;9.25
+WIZS3;WIZ SOLUÇÕES E CORRETAGEM DE SEGUROS S.A.;Financeiro;Corretoras de Seguros;0.61;0.47;0.56;8;5.88;5.88;7.0
+WLMM3;WLM PART. E COMÉRCIO DE MÁQUINAS E VEÍCULOS S.A.;Bens Industriais;Material de Transporte;0.91;0.16;0.0;27.84;0.57;0.57;0.0
+WLMM4;WLM PART. E COMÉRCIO DE MÁQUINAS E VEÍCULOS S.A.;Bens Industriais;Material de Transporte;1.01;0.64;0.29;30.97;2.07;2.07;0.94
+YDUQ3;YDUQS PARTICIPACOES S.A.;Consumo Cíclico;Serviços Educacionais;0.47;0.62;0.4;14.25;4.35;4.35;2.81

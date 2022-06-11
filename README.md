@@ -6,10 +6,12 @@ Os dados sobre as diversas empresas são obtidos por meio do [Yahoo Finance](htt
 
 O processamento dos dados é feito pelo script [listaDividendos.py](https://github.com/alcindogandhi/dividendos/blob/main/src/listaDividendos.py), que importa os dados de dividendos em JSON obtidos na etapa anterior e gera um aquivo CSV com as seguintes estatísticas calculadas para cada ativo:
 
+* DIV ULT: Dividendos do ativo pagos no último ano.
 * DIV MEDIO: Média dos dividendos do ativo no período.
 * DIV MEDIANA: Mediana dos dividendos do ativo no período.
 * PRECO ATUAL: Preço de fechamento do ativo.
-* TAXA ATUAL M: Taxa de retorno dos dividendos considerando a média dos dividendos.
-* TAXA ATUAL MD: Taxa de retorno dos dividendos considerando a mediana dos dividendos.
+* TAXA ULT: Taxa de retorno dos dividendos considerando o dividendo pago no último ano.
+* TAXA M: Taxa de retorno dos dividendos considerando a média dos dividendos.
+* TAXA MD: Taxa de retorno dos dividendos considerando a mediana dos dividendos.
 
 Cada um dos referidos scripts podem ser importados como um módulo e usados para análises posteriores.

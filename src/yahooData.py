@@ -70,4 +70,4 @@ def getYahooData(jsonFileName = None, csvFileName = "b3.csv"):
     return yahooData
 
 if __name__ == '__main__':
-    getYahooData(jsonFileName = "yahooData.json", csvFileName="b3.csv")
+    getYahooData(jsonFileName = "../data/yahooData.json", csvFileName="../data/b3.csv")

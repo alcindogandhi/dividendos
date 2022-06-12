@@ -75,7 +75,7 @@ def listaDividendos(N = 10, csvFileName = None, b3CsvFileName = "b3.csv", jsonFi
         b3.iloc[i, DIV_MEDIO] = round(st.mean(dividends), 2)
         b3.iloc[i, DIV_MEDIANA] = round(st.median(dividends), 2)
         b3.iloc[i, PRECO_ATUAL] = yahooData[i]["price"]
-        b3.iloc[i, TAXA_ULT] = round(b3.iloc[i, DIV_MEDIO] * 100.0 / b3.iloc[i, PRECO_ATUAL], 2)
+        b3.iloc[i, TAXA_ULT] = round(b3.iloc[i, DIV_ULT] * 100.0 / b3.iloc[i, PRECO_ATUAL], 2)
         b3.iloc[i, TAXA_M] = round(b3.iloc[i, DIV_MEDIO] * 100.0 / b3.iloc[i, PRECO_ATUAL], 2)
         b3.iloc[i, TAXA_MD] = round(b3.iloc[i, DIV_MEDIANA] * 100.0 / b3.iloc[i, PRECO_ATUAL], 2)
 

@@ -60,6 +60,7 @@ def getYahooData(jsonFileName = None, csvFileName = "b3.csv"):
         i = i + 1
         readYahooData(data, i, total)
 
+    # Limpando os dados faltantes.
     yahooData = list(filter(lambda x: x.get("ticker", None) == None, yahooData))
     yahooData = list(filter(lambda x: x.get("price", None) != None, yahooData))
     yahooData = list(filter(lambda x: x.get("price", None) != 0, yahooData))
